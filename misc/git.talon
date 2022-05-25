@@ -25,7 +25,7 @@ git cherry pick skip: "git cherry-pick --skip "
 git clone: "git clone "
 # Leave \n out for confirmation since the operation is destructive
 git clean everything: "git clean -dfx"
-git commit message <user.text>: "git commit -m '{text}'"
+git commit message <user.text>: "git commit -m \"{text}\""
 # chrisnicollo EDIT
 git commit: "git commit" 
 git commit amend: "git commit --amend\n"
