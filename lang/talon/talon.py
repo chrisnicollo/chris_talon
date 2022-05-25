@@ -94,7 +94,7 @@ class UserActions:
         actions.auto_insert(" = ")
 
     def code_comment_line_prefix():
-        actions.auto_insert("#")
+        actions.auto_insert("# ") # chrisnicollo EDIT
 
     def code_insert_function(text: str, selection: str):
         text += f"({selection or ''})"

@@ -1,5 +1,5 @@
 from talon import Context, Module, actions, settings
-
+# Note: most of this is the code for the language C
 mod = Module()
 mod.setting(
     "use_stdint_datatypes ",
@@ -10,7 +10,7 @@ mod.setting(
 
 ctx = Context()
 ctx.matches = r"""
-tag: user.c
+tag: user.matlab
 """
 
 ctx.lists["self.c_pointers"] = {
@@ -34,10 +34,15 @@ ctx.lists["self.c_keywords"] = {
     "register": "register",
 }
 
-ctx.lists["self.stdint_types"] = {
-    "bool": "bool", # chrisnicollo EDIT
+# chrisnicollo EDIT START
+ctx.lists["self.stdint_types"] = { # FIXME: Do I delete this?
+    # Appended bool&boolean to this list
+    "boolean": "bool", # This version of the command doesn't seem to work
+    "bool": "bool",
     "character": "int8_t",
     "char": "int8_t",
+    # Class appended to this list
+    # "class": "class",
     "short": "int16_t",
     "long": "int32_t",
     "long long": "int64_t",
@@ -53,9 +58,13 @@ ctx.lists["self.stdint_types"] = {
 }
 
 ctx.lists["self.c_types"] = {
-    "bool": "bool", # chrisnicollo EDIT
+    # Appended bool&boolean to this list
+    "boolean": "bool", # This version of the command doesn't seem to work
+    "bool": "bool",
     "character": "char",
     "char": "char",
+    # Class appended to this list
+    # "class": "class",
     "short": "short",
     "long": "long",
     "int": "int",
@@ -68,6 +77,7 @@ ctx.lists["self.c_types"] = {
     "union": "union",
     "float": "float",
 }
+# chrisnicollo EDIT END
 
 ctx.lists["user.code_libraries"] = {
     "assert": "assert.h",
@@ -89,7 +99,7 @@ ctx.lists["user.code_libraries"] = {
     "standard int": "stdint.h",
 }
 
-ctx.lists["user.code_common_function"] = {
+ctx.lists["user.code_functions"] = {
     "mem copy": "memcpy",
     "mem set": "memset",
     "string cat": "strcat",
@@ -181,19 +191,23 @@ def stdint_signed(m) -> str:
     return m.stdint_signed
 
 
-@mod.capture(rule="[<self.c_signed>] <self.c_types> [<self.c_pointers>+]")
+# NOTE: we purposely we don't have a space after signed, to faciltate stdint
+# style uint8_t constructions
+@mod.capture(rule="[<self.c_signed>]<self.c_types> [<self.c_pointers>+]")
 def c_cast(m) -> str:
     "Returns a string"
     return "(" + " ".join(list(m)) + ")"
 
 
-@mod.capture(rule="[<self.stdint_signed>] <self.stdint_types> [<self.c_pointers>+]")
+# NOTE: we purposely we don't have a space after signed, to faciltate stdint
+# style uint8_t constructions
+@mod.capture(rule="[<self.stdint_signed>]<self.stdint_types> [<self.c_pointers>+]")
 def c_stdint_cast(m) -> str:
     "Returns a string"
     return "(" + "".join(list(m)) + ")"
 
 
-@mod.capture(rule="[<self.c_signed>] <self.c_types> [<self.c_pointers>]")
+@mod.capture(rule="[<self.c_signed>]<self.c_types>[<self.c_pointers>]")
 def c_variable(m) -> str:
     "Returns a string"
     return " ".join(list(m))
@@ -217,12 +231,10 @@ class UserActions:
     #action(user.code_operator_exponent): " ** "
     def code_operator_division():                        actions.auto_insert(' / ')
     def code_operator_division_assignment():             actions.auto_insert(' /= ')
-    def code_operator_modulo():                          actions.auto_insert(' % ')
+    def code_operator_modulo():                          actions.auto_insert(' mod(,) ') # FIXME: make this more matlab-y
     def code_operator_modulo_assignment():               actions.auto_insert(' %= ')
-    def code_operator_increment():                       actions.auto_insert('++') # chrisnicollo EDIT
-    def code_operator_decrement():                       actions.auto_insert('--') # chrisnicollo EDIT
     def code_operator_equal():                           actions.auto_insert(' == ')
-    def code_operator_not_equal():                       actions.auto_insert(' != ')
+    def code_operator_not_equal():                       actions.auto_insert(' ~= ')
     def code_operator_greater_than():                    actions.auto_insert(' > ')
     def code_operator_greater_than_or_equal_to():        actions.auto_insert(' >= ')
     def code_operator_less_than():                       actions.auto_insert(' < ')
@@ -242,20 +254,15 @@ class UserActions:
     def code_insert_null():                                     actions.auto_insert('NULL')
     def code_insert_is_null():                                  actions.auto_insert(' == NULL ')
     def code_insert_is_not_null():                              actions.auto_insert(' != NULL')
-    # chrisnicollo EDIT START
-    def code_state_if():
-        actions.insert('if () {\n\n}')
-        actions.key('up:2 right:3')
-        #actions.key('up:2 left:3')
-    def code_state_else_if():
-        actions.insert('else if () {\n\n}')
-        actions.key('up:2 right:8')
-        #actions.key('up:2 left:3')
-    def code_state_else():
-        actions.insert('else {\n\n}')
+    def code_state_if(): # Note: edited from C
+        actions.insert('if :\n')
+        actions.key('up:1 left:1') # Note: This navigation doesn't seem to work well in matlab
+    def code_state_else_if(): # Note: edited from C
+        actions.insert('else if :\n')
         actions.key('up:1')
-        #actions.key('up:2')
-    # chrisnicollo EDIT END
+    def code_state_else(): # Note: edited from C
+        actions.insert('else:\n')
+        # actions.key('up:2')
     def code_state_switch():
         actions.insert('switch ()')
         actions.edit.left()
@@ -272,7 +279,7 @@ class UserActions:
     def code_next():            actions.auto_insert('continue;')
     def code_insert_true():            actions.auto_insert('true')
     def code_insert_false():           actions.auto_insert('false')
-    def code_comment_line_prefix(): actions.auto_insert('// ') # chrisnicollo EDIT - Added a space to the end
+    def code_comment_line_prefix(): actions.auto_insert('% ')
 
     def code_insert_function(text: str, selection: str):
         if selection:

@@ -4,7 +4,10 @@ and tag: user.git
 # Standard commands
 git add patch: "git add . -p\n"
 git add: "git add "
-git add everything: "git add -u\n"
+# chrisnicollo EDIT START
+git add all: "git add ." 
+git add everything: "git add -u" 
+# chrisnicollo EDIT END
 git bisect: "git bisect "
 git blame: "git blame "
 git branch: "git branch "
@@ -23,7 +26,8 @@ git clone: "git clone "
 # Leave \n out for confirmation since the operation is destructive
 git clean everything: "git clean -dfx"
 git commit message <user.text>: "git commit -m '{text}'"
-git commit: "git commit\n"
+# chrisnicollo EDIT
+git commit: "git commit" 
 git commit amend: "git commit --amend\n"
 git commit no verify: "git commit -n"
 git commit existing: "git commit -a\n"
@@ -124,3 +128,14 @@ git commit highlighted:
     insert("git add ")
     edit.paste()
     insert("\ngit commit\n")
+
+# chrisnicollo EDIT START
+# Windows directory navigation
+change directory: "cd "
+
+change directory <user.text>: "cd {text}"
+
+go directory back: "cd .."
+    
+show directory: "dir"
+ # chrisnicollo EDIT END

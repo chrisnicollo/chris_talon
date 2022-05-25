@@ -36,3 +36,13 @@ comment <user.text>$:
 	edit.line_end()
    	user.code_comment_line_prefix()
     insert(user.text)
+
+# chrisnicollo EDIT START
+comment fix me:
+    user.code_comment_line_prefix()
+    insert("FIXME: ")
+
+comment to do:
+    user.code_comment_line_prefix()
+    insert("TODO: ")
+# chrisnicollo EDIT END

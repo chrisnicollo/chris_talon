@@ -1,0 +1,5 @@
+2022-05-11 14:55:48: == Sync Started by User Command
+2022-05-11 14:55:48: Start only 2 threads, limited by tasks to run
+2022-05-11 14:55:48: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/click_talon/hiss-rightclick.py' -> 'Z:/Backup/Talon Data/click_talon/hiss-rightclick.py' (2,007)
+2022-05-11 14:55:48: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/click_talon/pop-click.py' -> 'Z:/Backup/Talon Data/click_talon/pop-click.py' (513)
+2022-05-11 14:55:48: == Sync Complete. Time: 00:00:00, Speed: 0.00/s, OK: 2, Errors: 0

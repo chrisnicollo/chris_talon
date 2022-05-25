@@ -9,6 +9,7 @@ triple quote: "'''"
 (dot dot | dotdot): ".."
 ellipses: "..."
 (comma and | spamma): ", "
+(semi | semicolon) (and | spamma): "; "
 plus: "+"
 arrow: "->"
 dub arrow: "=>"
@@ -50,6 +51,17 @@ inside (double quotes | dubquotes):
 inside (graves | back ticks):
 	insert("``")
 	key(left)
+# chrisnicollo EDIT START
+inside angles:
+    insert("<>")
+    key(left)
+inside colons:
+    insert("::")
+    key(left)
+colon that:
+    text = edit.selected_text()
+    user.paste(":{text}:")
+# chrisnicollo EDIT END
 angle that:
     text = edit.selected_text()
     user.paste("<{text}>")

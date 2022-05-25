@@ -20,6 +20,9 @@ class Actions:
     def code_operator_increment():
         """code_operator_increment"""
 
+    def code_operator_decrement(): # chrisnicollo EDIT
+        """code_operator_decrement""" # chrisnicollo EDIT
+
     def code_operator_multiplication_assignment():
         """code_operator_multiplication_assignment"""
 

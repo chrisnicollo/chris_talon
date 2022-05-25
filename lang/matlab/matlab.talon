@@ -1,4 +1,4 @@
-tag: user.c
+tag: user.matlab
 -
 tag(): user.code_imperative
 
@@ -7,7 +7,7 @@ tag(): user.code_comment_block_c_like
 tag(): user.code_data_bool
 tag(): user.code_data_null
 tag(): user.code_functions
-tag(): user.code_functions_common
+tag(): user.code_functions_gui
 tag(): user.code_libraries
 tag(): user.code_libraries_gui
 tag(): user.code_operators_array
@@ -30,11 +30,10 @@ settings():
     user.code_public_variable_formatter = "SNAKE_CASE"
     # whether or not to use uint_8 style datatypes
     #    user.use_stdint_datatypes = 1
-
-
-
 ^funky <user.text>$: user.code_default_function(text)
 ^static funky <user.text>$: user.code_private_static_function(text)
+
+
 
 # NOTE: migrated from generic, as they were only used here, though once cpp support is added, perhaps these should be migrated to a tag together with the commands below
 state include:
@@ -88,6 +87,11 @@ push brackets:
 <user.c_variable> <user.letter>:
     insert("{c_variable} {letter} ")
 
+state mod: # Note: edited from the C
+    insert("mod(,)")
+    edit.left()
+    edit.left()
+
 # chrisnicollo EDIT START    
 # class <user.text>:
     # className = user.formatted_text(text, "PUBLIC_CAMEL_CASE,NO_SPACES")
@@ -108,20 +112,14 @@ static <user.c_variable> funky <phrase>:
     insert("static {c_variable} {functionName} ()")
     edit.left()   
 
+
 scope standard:    
     insert("std::")
 
 # FIXME: consider making a list of common scopes 
 
-# scope {user.prose_formatter} <phrase>$:
-    # user.insert_formatted(phrase, prose_formatter)
-    # print("printed formated text")
-    # insert("::")
-# FIXME: Why isn't this working and formatting the text?
-
 scope <phrase>:    
     insert("{phrase}::")
-    print("scope without formatting")
     
 scope ham <phrase>:
     text = user.formatted_text(phrase, "PUBLIC_CAMEL_CASE")
