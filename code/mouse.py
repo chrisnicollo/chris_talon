@@ -121,8 +121,8 @@ class Actions:
 
     def mouse_wake():
         """Enable control mouse, zoom mouse, and disables cursor"""
-        eye_zoom_mouse.toggle_zoom_mouse(True)
-        # eye_mouse.control_mouse.enable()
+        # eye_zoom_mouse.toggle_zoom_mouse(True)
+        eye_mouse.control_mouse.enable() # chrisnicollo EDIT: enable control and not zoom mouse on wake
         if setting_mouse_wake_hides_cursor.get() >= 1:
             show_cursor_helper(False)
 
@@ -286,11 +286,13 @@ def show_cursor_helper(show):
 
 
 def on_pop(active):
+    print("left click") # chrisnicollo EDIT START: added print statement
     if setting_mouse_enable_pop_stops_scroll.get() >= 1 and (gaze_job or scroll_job):
         stop_scroll()
     elif (
         not eye_zoom_mouse.zoom_mouse.enabled
-        and eye_mouse.mouse.attached_tracker is not None
+        # and eye_mouse.mouse.attached_tracker is not None
+        # chrisnicollo EDIT END: removed the need for an eye tracker attached to pop to click
     ):
         if setting_mouse_enable_pop_click.get() >= 1:
             ctrl.mouse_click(button=0, hold=16000)
