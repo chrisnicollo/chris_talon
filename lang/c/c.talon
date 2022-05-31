@@ -129,7 +129,12 @@ scope ham <phrase>:
     # FIXME: Figure out how to do this with other formats
 
 constant:
-    insert("const")
+    insert("const ")
+see out: "cout"
+see in: "cin"
+op insertion: " << "
+op extraction: " >> "
+end line: "endl"
 # chrisnicollo EDIT END
 
 # Ex. (int *)
