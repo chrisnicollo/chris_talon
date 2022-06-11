@@ -1,0 +1,757 @@
+2022-05-31 21:29:10: == Sync Started by Sync Only Command
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/hooks
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/info
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/logs
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/logs/refs
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/logs/refs/heads
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/origin
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/feature
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/pokey
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/pr
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/pr/timo
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/02
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/05
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/07
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/10
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/11
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/15
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/17
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/1a
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/1b
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/1c
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/22
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/27
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/42
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/43
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/46
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/4a
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/4f
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/50
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/56
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/57
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/5b
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/65
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/66
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/72
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/75
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/78
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/7c
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/7f
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/85
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/87
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/8a
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/8b
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/8c
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/92
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/94
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/95
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/96
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/9a
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/a2
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/af
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/b0
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/b3
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/b7
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/b9
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/bf
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/c1
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/c4
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/cb
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/cc
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/cf
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/d4
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/d6
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/da
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/e1
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/e4
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/e5
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/ea
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/ef
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/f3
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/f7
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/f8
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/fe
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/ff
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/info
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/objects/pack
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/refs
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/refs/heads
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/refs/remotes
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/origin
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/feature
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/pokey
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/pr
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/pr/timo
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.git/refs/tags
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.github
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/.github/workflows
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/1password
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/adobe
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/amethyst
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/anaconda
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/brave
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/calibre
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/chrome
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/discord
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/eclipse
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/edge
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/evernote
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/firefox
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/gdb
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/generic_snippets
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/generic_terminal
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/i3wm
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/jetbrains
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/kindle
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/kubectl
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/okular
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/linux
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/atril
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/evince
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/gnome-terminal
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/kde-konsole
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/nautilus
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/terminator
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/mac
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/mac/finder
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/mac/iterm
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/mac/notes
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/mac/safari
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/mac/terminal
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/win
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/win/command_processor
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/win/explorer
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/win/mintty
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/win/nitro_reader
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/win/notepad++
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/win/outlook
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/win/powershell
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/win/sumatrapdf
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/win/windows_terminal
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/platforms/win/wsl
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/slack
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/teams
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/terraform
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/visualstudio
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/vscode
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/vscode/command_client
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/vscode/snippets
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/web
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/apps/windbg
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/click_talon
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/code
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/code/app_names
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/code/platforms
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/code/platforms/linux
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/code/platforms/mac
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/code/platforms/win
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/code/Resources
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/draft_editor
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/emoji
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/batch
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/c
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/csharp
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/css
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/go
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/java
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/javascript
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/markdown
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/matlab
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/php
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/proto
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/python
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/r
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/ruby
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/rust
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/scala
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/sql
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/tags
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/talon
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/terraform
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/typescript
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/lang/vimscript
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/misc
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/modes
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/mouse_grid
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/settings
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/talon_draft_window
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/talon_draft_window/doc
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/tests
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/tests/stubs
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/tests/stubs/talon
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/tests/stubs/talon/experimental
+2022-05-31 21:29:10: Create Folder Z:/Backup/Talon Data/chris_talon/text
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/COMMIT_EDITMSG' -> 'Z:/Backup/Talon Data/chris_talon/.git/COMMIT_EDITMSG' (35)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/config' -> 'Z:/Backup/Talon Data/chris_talon/.git/config' (429)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.editorconfig' -> 'Z:/Backup/Talon Data/chris_talon/.editorconfig' (315)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/HEAD' -> 'Z:/Backup/Talon Data/chris_talon/.git/HEAD' (23)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/hooks/applypatch-msg.sample' -> 'Z:/Backup/Talon Data/chris_talon/.git/hooks/applypatch-msg.sample' (478)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/description' -> 'Z:/Backup/Talon Data/chris_talon/.git/description' (73)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/hooks/commit-msg.sample' -> 'Z:/Backup/Talon Data/chris_talon/.git/hooks/commit-msg.sample' (896)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/hooks/fsmonitor-watchman.sample' -> 'Z:/Backup/Talon Data/chris_talon/.git/hooks/fsmonitor-watchman.sample' (4,655)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/hooks/post-update.sample' -> 'Z:/Backup/Talon Data/chris_talon/.git/hooks/post-update.sample' (189)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/hooks/pre-applypatch.sample' -> 'Z:/Backup/Talon Data/chris_talon/.git/hooks/pre-applypatch.sample' (424)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/FETCH_HEAD' -> 'Z:/Backup/Talon Data/chris_talon/.git/FETCH_HEAD' (5,506)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/hooks/pre-merge-commit.sample' -> 'Z:/Backup/Talon Data/chris_talon/.git/hooks/pre-merge-commit.sample' (416)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/hooks/pre-commit.sample' -> 'Z:/Backup/Talon Data/chris_talon/.git/hooks/pre-commit.sample' (1,643)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/hooks/pre-push.sample' -> 'Z:/Backup/Talon Data/chris_talon/.git/hooks/pre-push.sample' (1,374)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/hooks/pre-receive.sample' -> 'Z:/Backup/Talon Data/chris_talon/.git/hooks/pre-receive.sample' (544)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/hooks/pre-rebase.sample' -> 'Z:/Backup/Talon Data/chris_talon/.git/hooks/pre-rebase.sample' (4,898)
+2022-05-31 21:29:10: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/hooks/prepare-commit-msg.sample' -> 'Z:/Backup/Talon Data/chris_talon/.git/hooks/prepare-commit-msg.sample' (1,492)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/hooks/push-to-checkout.sample' -> 'Z:/Backup/Talon Data/chris_talon/.git/hooks/push-to-checkout.sample' (2,783)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/hooks/update.sample' -> 'Z:/Backup/Talon Data/chris_talon/.git/hooks/update.sample' (3,650)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/index' -> 'Z:/Backup/Talon Data/chris_talon/.git/index' (38,306)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/info/exclude' -> 'Z:/Backup/Talon Data/chris_talon/.git/info/exclude' (240)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/HEAD' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/HEAD' (1,710)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/heads/master' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/heads/master' (1,176)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/origin/HEAD' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/origin/HEAD' (199)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/origin/master' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/origin/master' (616)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/before-that' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/before-that' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/560-dfa-performance' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/560-dfa-performance' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/clickless_mouse' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/clickless_mouse' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/create-spoken-form-years' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/create-spoken-form-years' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/create_spoken_forms_regex_fix' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/create_spoken_forms_regex_fix' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/csv-refactor' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/csv-refactor' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/csv-rework' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/csv-rework' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/draft-window-tweaks' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/draft-window-tweaks' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/draft_editor' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/draft_editor' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/draft_editor_changes' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/draft_editor_changes' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/feature/curse-no-disabled-by-default' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/feature/curse-no-disabled-by-default' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/feature/mouse-grid-code-style' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/feature/mouse-grid-code-style' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/feature/voice-commands-as-help-buttons' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/feature/voice-commands-as-help-buttons' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/feature/restore-missing-close-buttons' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/feature/restore-missing-close-buttons' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/file-open' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/file-open' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/go-arrows-press-keys' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/go-arrows-press-keys' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/fix-select-line' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/fix-select-line' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/homophones-were' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/homophones-were' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/insert-between' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/insert-between' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/knausj-personal-experiments' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/knausj-personal-experiments' (336)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/linux-window-move' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/linux-window-move' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/mode-tweaks' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/mode-tweaks' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/master' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/master' (336)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/nriley' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/nriley' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/personal' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/personal' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/peek-right-before-insertion' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/peek-right-before-insertion' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/pokey/keywords' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/pokey/keywords' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/pokey-cancel' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/pokey-cancel' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/pokey-all-cap' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/pokey-all-cap' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/pokey-fix-vscode-draft-window' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/pokey-fix-vscode-draft-window' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/pokey-javascript-functions' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/pokey-javascript-functions' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/pokey-master' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/pokey-master' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/pokey-optional-sleep-phrase' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/pokey-optional-sleep-phrase' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/pr/timo/623' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/pr/timo/623' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/PR_20W21_IMP_windows_info' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/PR_20W21_IMP_windows_info' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/r-parameter-list' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/r-parameter-list' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/refactor-screenshot-selection-action' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/refactor-screenshot-selection-action' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/selected-text-text-not-get' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/selected-text-text-not-get' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/simplify-capitalize-defaults' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/simplify-capitalize-defaults' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/simplify-formatters' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/simplify-formatters' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/tiny-cleanups' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/tiny-cleanups' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/vscode-command-client' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/vscode-command-client' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/top-left-third' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/top-left-third' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/logs/refs/remotes/upstream/vscode-state-test' -> 'Z:/Backup/Talon Data/chris_talon/.git/logs/refs/remotes/upstream/vscode-state-test' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/02/0ffa8f8f24001768af9e29cd16f3add1d37d85' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/02/0ffa8f8f24001768af9e29cd16f3add1d37d85' (134)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/05/8538a26ef2006a414743f97b0d466022dad685' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/05/8538a26ef2006a414743f97b0d466022dad685' (3,841)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/07/930b88fe711803409ecf06273059910cb86428' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/07/930b88fe711803409ecf06273059910cb86428' (263)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/11/24f7bcaf0dec0d1919b41ab54222c14f7b6b44' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/11/24f7bcaf0dec0d1919b41ab54222c14f7b6b44' (1,558)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/10/bca2329c87e916bfa8d50480aec276cf8fc9d2' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/10/bca2329c87e916bfa8d50480aec276cf8fc9d2' (739)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/15/58d3f41725e53e75017dba814c2fd4f41fa03b' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/15/58d3f41725e53e75017dba814c2fd4f41fa03b' (1,080)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/17/fcf148ebd6d54ee8b2cb858b35b095dda44ae1' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/17/fcf148ebd6d54ee8b2cb858b35b095dda44ae1' (203)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/15/f4040ff2a0d7913950edaedf77cc6f7eb64038' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/15/f4040ff2a0d7913950edaedf77cc6f7eb64038' (1,323)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/1a/546226d12a6f8ac749963762cf820acabae004' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/1a/546226d12a6f8ac749963762cf820acabae004' (771)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/1c/57ce3b61db3a815cbd3e2e08980182da6633c3' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/1c/57ce3b61db3a815cbd3e2e08980182da6633c3' (83)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/22/963504fe08dc83ca4255948870d841620c20c5' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/22/963504fe08dc83ca4255948870d841620c20c5' (337)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/1b/4cfecd19b3b9efa1a3333cefe23647db0e38a6' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/1b/4cfecd19b3b9efa1a3333cefe23647db0e38a6' (2,743)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/27/4f11adafe893b8e79aba3ce30bab42feb49247' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/27/4f11adafe893b8e79aba3ce30bab42feb49247' (1,043)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/42/317efd227ce4f88dacb03ee2f61afcc0a3b50d' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/42/317efd227ce4f88dacb03ee2f61afcc0a3b50d' (78)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/43/30f98ac6771094721e405162188fa002a4d0e8' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/43/30f98ac6771094721e405162188fa002a4d0e8' (739)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/46/eb41473745ffc405189f60f7911389c34d0c4c' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/46/eb41473745ffc405189f60f7911389c34d0c4c' (127)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/46/30f0a5236280a9a5f80b647c076cfc67da57ce' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/46/30f0a5236280a9a5f80b647c076cfc67da57ce' (2,512)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/4a/70a3369d6285718cc5e7d68f0e1641729fa70b' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/4a/70a3369d6285718cc5e7d68f0e1641729fa70b' (187)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/4f/5011af1a82fff460781cb7508d6dc599da9c6b' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/4f/5011af1a82fff460781cb7508d6dc599da9c6b' (78)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/50/8109ed9d64ed3783fb2ad76297416068aefb73' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/50/8109ed9d64ed3783fb2ad76297416068aefb73' (739)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/56/9a78e38594e123f238a32ad65104415b7186e9' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/56/9a78e38594e123f238a32ad65104415b7186e9' (157)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/57/6c13551130b403169ca2e8442b577e0f570c35' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/57/6c13551130b403169ca2e8442b577e0f570c35' (263)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/5b/afa4116936f4e0b8fae4e0be8385fe15957c26' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/5b/afa4116936f4e0b8fae4e0be8385fe15957c26' (1,390)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/65/e953f5decf1fa190c09b1ea76ea432289580ff' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/65/e953f5decf1fa190c09b1ea76ea432289580ff' (833)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/66/0bfcf35ce677d8494141879fa4c23f661b5644' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/66/0bfcf35ce677d8494141879fa4c23f661b5644' (658)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/72/936087357a494dc2c7c9c58dd546da70c9ef98' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/72/936087357a494dc2c7c9c58dd546da70c9ef98' (1,080)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/75/66a881307897c7cd99bac6da084925d2802c47' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/75/66a881307897c7cd99bac6da084925d2802c47' (771)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/78/7a259f3f27eb1d1cff73c6692a5c1a2cb715b8' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/78/7a259f3f27eb1d1cff73c6692a5c1a2cb715b8' (1,080)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/7c/b616a2a4d927f2bc10afed1c81f58c40a1fea1' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/7c/b616a2a4d927f2bc10afed1c81f58c40a1fea1' (3,894)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/7f/323fb4dbd73897facddf7d7ef1b96bf4b8ccb8' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/7f/323fb4dbd73897facddf7d7ef1b96bf4b8ccb8' (2,543)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/87/30aea4392e328434a17ab4679de5f5ede99331' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/87/30aea4392e328434a17ab4679de5f5ede99331' (1,704)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/85/e414db4216c64a00bb0596f867dbfa2e7e6028' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/85/e414db4216c64a00bb0596f867dbfa2e7e6028' (631)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/85/ed711a8bd2ab1322613ed53dfa0968cab6f497' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/85/ed711a8bd2ab1322613ed53dfa0968cab6f497' (1,706)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/8a/07a03184264febc4255cd372bd4ca3573a9331' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/8a/07a03184264febc4255cd372bd4ca3573a9331' (350)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/8a/4726e3b3d01de06ca27d8cbef39a8e0140b8db' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/8a/4726e3b3d01de06ca27d8cbef39a8e0140b8db' (1,041)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/8a/c33618ed72580daf96cc67f5f1e850ba51a081' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/8a/c33618ed72580daf96cc67f5f1e850ba51a081' (1,080)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/8b/31b45d56da0d879d1ea7c6c05c14e7af81c6bf' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/8b/31b45d56da0d879d1ea7c6c05c14e7af81c6bf' (210)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/8c/6fe4b0593484f39c594e964e55ecc57f1663cc' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/8c/6fe4b0593484f39c594e964e55ecc57f1663cc' (1,280)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/92/5095b3e716897cfc22f8bd31a740d41a97b555' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/92/5095b3e716897cfc22f8bd31a740d41a97b555' (2,959)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/94/07c7051058ea3d0f2764f4a38f001e9f2e6f49' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/94/07c7051058ea3d0f2764f4a38f001e9f2e6f49' (1,621)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/95/89848b7033fd16f8fd0f191ea93b42ea208ef7' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/95/89848b7033fd16f8fd0f191ea93b42ea208ef7' (157)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/96/8ba11aa4d138a311c28b470b7ede457cd2967c' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/96/8ba11aa4d138a311c28b470b7ede457cd2967c' (1,095)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/9a/0761c5aeb0d0480c690865c205e2f99e0d9f15' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/9a/0761c5aeb0d0480c690865c205e2f99e0d9f15' (287)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/a2/b6a375db72830bab5574385a00c7b22ef4e886' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/a2/b6a375db72830bab5574385a00c7b22ef4e886' (79)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/af/76a24ba32f441ac8278cce328f967324fc40b3' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/af/76a24ba32f441ac8278cce328f967324fc40b3' (337)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/af/6a9ceb15eab3878748e84bacb22f3db4600a53' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/af/6a9ceb15eab3878748e84bacb22f3db4600a53' (1,705)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/b0/28a761a0c1b3fc60f5f8150f1ae8276b023177' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/b0/28a761a0c1b3fc60f5f8150f1ae8276b023177' (261)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/b3/746ac4ac9d4178b764128911e07087e33d2a66' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/b3/746ac4ac9d4178b764128911e07087e33d2a66' (360)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/b7/8dfef0c2424069cf632df4b045f57ea70784fe' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/b7/8dfef0c2424069cf632df4b045f57ea70784fe' (630)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/b9/98278cbc6cb648a8803280c1ff25ffae313892' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/b9/98278cbc6cb648a8803280c1ff25ffae313892' (181)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/bf/218e0f946ae270d0ce498ff85b0d427502570e' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/bf/218e0f946ae270d0ce498ff85b0d427502570e' (317)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/c1/5ab56a9b4d9a2c082641b5769b8c7174a34ec4' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/c1/5ab56a9b4d9a2c082641b5769b8c7174a34ec4' (78)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/c4/d20269a8821bd517cf291c2152be5ab28fe5bb' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/c4/d20269a8821bd517cf291c2152be5ab28fe5bb' (1,365)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/cb/3ab875c2efa6eb1b574b2eb001f24c65e01ba9' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/cb/3ab875c2efa6eb1b574b2eb001f24c65e01ba9' (79)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/cf/a96a708e9b2bbab93d14ff659ee6dad7418217' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/cf/a96a708e9b2bbab93d14ff659ee6dad7418217' (739)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/cc/deb5f858e21e58633d44fe3781b40bc8eceea1' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/cc/deb5f858e21e58633d44fe3781b40bc8eceea1' (1,707)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/d4/37889192c0f0e5b961ee613568fdf1e025435a' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/d4/37889192c0f0e5b961ee613568fdf1e025435a' (1,266)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/d6/b23e919f8b0c76b4e6cc9b9f04394588ce5b17' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/d6/b23e919f8b0c76b4e6cc9b9f04394588ce5b17' (965)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/e1/d064544fecd0b4f8e42754737654279919896e' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/e1/d064544fecd0b4f8e42754737654279919896e' (362)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/da/ce20178023bc7c38d6a8ba31855a376dbcec79' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/da/ce20178023bc7c38d6a8ba31855a376dbcec79' (1,673)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/e4/2f7e0fcb198fd0fb8a60f82adfebdeeee887e6' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/e4/2f7e0fcb198fd0fb8a60f82adfebdeeee887e6' (362)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/e5/eebcf24f153c5efb54dd88eb393f0219d4de90' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/e5/eebcf24f153c5efb54dd88eb393f0219d4de90' (78)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/ea/0622ceeb20425d67e4ba0b69ef84353ccb8fc9' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/ea/0622ceeb20425d67e4ba0b69ef84353ccb8fc9' (1,363)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/ef/9b6e849c4771563e68680cc082435b1b361ab2' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/ef/9b6e849c4771563e68680cc082435b1b361ab2' (333)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/ef/0947a88296fd84d9ab64f006787dae3f652431' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/ef/0947a88296fd84d9ab64f006787dae3f652431' (631)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/f3/a896f61f13f9265a3b6376a29868afa63739ec' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/f3/a896f61f13f9265a3b6376a29868afa63739ec' (287)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/f8/ae68639600f5495038c78ab9a2b8bd217c9484' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/f8/ae68639600f5495038c78ab9a2b8bd217c9484' (172)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/f7/c71cf5078e55c189855a1576401b53393d7704' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/f7/c71cf5078e55c189855a1576401b53393d7704' (1,092)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/fe/6c12d520b64db96341502a6f0c78cd1a5462ae' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/fe/6c12d520b64db96341502a6f0c78cd1a5462ae' (631)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/ff/cf55433c7e772c8a8829e0cbd269e5ab4337a6' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/ff/cf55433c7e772c8a8829e0cbd269e5ab4337a6' (183)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/pack/pack-a86b3e8bd7bae53de201a88fb0c201c17cf8ea09.idx' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/pack/pack-a86b3e8bd7bae53de201a88fb0c201c17cf8ea09.idx' (12,412)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/pack/pack-0b940a13d0f3bc6155ffee132dc07bca014868f6.idx' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/pack/pack-0b940a13d0f3bc6155ffee132dc07bca014868f6.idx' (489,756)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/pack/pack-a86b3e8bd7bae53de201a88fb0c201c17cf8ea09.pack' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/pack/pack-a86b3e8bd7bae53de201a88fb0c201c17cf8ea09.pack' (211,076)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/ORIG_HEAD' -> 'Z:/Backup/Talon Data/chris_talon/.git/ORIG_HEAD' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/packed-refs' -> 'Z:/Backup/Talon Data/chris_talon/.git/packed-refs' (4,085)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/heads/master' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/heads/master' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/origin/HEAD' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/origin/HEAD' (32)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/origin/master' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/origin/master' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/560-dfa-performance' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/560-dfa-performance' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/before-that' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/before-that' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/objects/pack/pack-0b940a13d0f3bc6155ffee132dc07bca014868f6.pack' -> 'Z:/Backup/Talon Data/chris_talon/.git/objects/pack/pack-0b940a13d0f3bc6155ffee132dc07bca014868f6.pack' (3,262,543)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/clickless_mouse' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/clickless_mouse' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/create-spoken-form-years' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/create-spoken-form-years' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/csv-refactor' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/csv-refactor' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/create_spoken_forms_regex_fix' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/create_spoken_forms_regex_fix' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/csv-rework' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/csv-rework' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/draft-window-tweaks' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/draft-window-tweaks' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/draft_editor' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/draft_editor' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/draft_editor_changes' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/draft_editor_changes' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/feature/curse-no-disabled-by-default' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/feature/curse-no-disabled-by-default' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/feature/mouse-grid-code-style' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/feature/mouse-grid-code-style' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/feature/voice-commands-as-help-buttons' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/feature/voice-commands-as-help-buttons' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/feature/restore-missing-close-buttons' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/feature/restore-missing-close-buttons' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/fix-select-line' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/fix-select-line' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/file-open' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/file-open' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/go-arrows-press-keys' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/go-arrows-press-keys' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/homophones-were' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/homophones-were' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/insert-between' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/insert-between' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/knausj-personal-experiments' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/knausj-personal-experiments' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/linux-window-move' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/linux-window-move' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/master' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/master' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/mode-tweaks' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/mode-tweaks' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/nriley' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/nriley' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/peek-right-before-insertion' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/peek-right-before-insertion' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/personal' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/personal' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/pokey/keywords' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/pokey/keywords' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/pokey-all-cap' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/pokey-all-cap' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/pokey-cancel' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/pokey-cancel' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/pokey-fix-vscode-draft-window' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/pokey-fix-vscode-draft-window' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/pokey-javascript-functions' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/pokey-javascript-functions' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/pokey-master' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/pokey-master' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/pr/timo/623' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/pr/timo/623' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/pokey-optional-sleep-phrase' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/pokey-optional-sleep-phrase' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/PR_20W21_IMP_windows_info' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/PR_20W21_IMP_windows_info' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/r-parameter-list' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/r-parameter-list' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/selected-text-text-not-get' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/selected-text-text-not-get' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/refactor-screenshot-selection-action' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/refactor-screenshot-selection-action' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/simplify-capitalize-defaults' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/simplify-capitalize-defaults' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/simplify-formatters' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/simplify-formatters' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/tiny-cleanups' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/tiny-cleanups' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/top-left-third' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/top-left-third' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/vscode-command-client' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/vscode-command-client' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git/refs/remotes/upstream/vscode-state-test' -> 'Z:/Backup/Talon Data/chris_talon/.git/refs/remotes/upstream/vscode-state-test' (41)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.git-blame-ignore-revs' -> 'Z:/Backup/Talon Data/chris_talon/.git-blame-ignore-revs' (84)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.github/workflows/ci.yml' -> 'Z:/Backup/Talon Data/chris_talon/.github/workflows/ci.yml' (490)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.gitignore' -> 'Z:/Backup/Talon Data/chris_talon/.gitignore' (96)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/1password/1password.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/1password/1password.talon' (176)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/.pre-commit-config.yaml' -> 'Z:/Backup/Talon Data/chris_talon/.pre-commit-config.yaml' (931)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/1password/1password_global.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/1password/1password_global.talon' (90)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/1password/mac.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/1password/mac.py' (698)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/1password/password_manager.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/1password/password_manager.py' (642)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/1password/win.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/1password/win.py' (709)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/adobe/adobe_acrobat_reader_dc.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/adobe/adobe_acrobat_reader_dc.py' (331)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/adobe/win.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/adobe/win.py' (1,196)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/adobe/adobe_acrobat_reader_dc.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/adobe/adobe_acrobat_reader_dc.talon' (82)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/amethyst/amethyst.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/amethyst/amethyst.talon' (392)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/anaconda/anaconda.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/anaconda/anaconda.py' (198)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/brave/brave.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/brave/brave.py' (1,304)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/anaconda/anaconda.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/anaconda/anaconda.talon' (1,369)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/brave/mac.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/brave/mac.py' (2,177)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/calibre/calibre.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/calibre/calibre.py' (355)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/calibre/calibre_viewer.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/calibre/calibre_viewer.talon' (77)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/calibre/calibre_viewer.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/calibre/calibre_viewer.py' (750)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/chrome/chrome.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/chrome/chrome.py' (1,554)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/chrome/mac.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/chrome/mac.py' (2,180)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/chrome/linux.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/chrome/linux.py' (1,153)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/chrome/win.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/chrome/win.py' (1,486)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/conemu.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/conemu.talon' (75)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/discord/discord.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/discord/discord.py' (1,129)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/discord/discord.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/discord/discord.talon' (739)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/eclipse/eclipse.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/eclipse/eclipse.talon' (3,229)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/discord/mac.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/discord/mac.py' (1,857)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/discord/win.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/discord/win.py' (1,887)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/eclipse/win.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/eclipse/win.py' (4,681)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/edge/mac.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/edge/mac.py' (1,685)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/edge/edge.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/edge/edge.py' (544)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/edge/win.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/edge/win.py' (1,697)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/file_manager.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/file_manager.talon' (1,857)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/evernote/mac.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/evernote/mac.talon' (122)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/firefox/firefox.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/firefox/firefox.py' (843)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/firefox/firefox.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/firefox/firefox.talon' (205)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/firefox/linux.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/firefox/linux.py' (1,666)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/firefox/mac.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/firefox/mac.py' (1,481)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/firefox/win.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/firefox/win.py' (1,766)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/gdb/gdb.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/gdb/gdb.py' (2,441)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/gdb/gdb.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/gdb/gdb.talon' (2,842)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/generic_debugger.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/generic_debugger.talon' (2,487)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/generic_browser.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/generic_browser.talon' (2,141)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/generic_snippets/generic_snippets.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/generic_snippets/generic_snippets.py' (1,539)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/generic_snippets/generic_snippets.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/generic_snippets/generic_snippets.talon' (242)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/generic_snippets/generic_snippets_open.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/generic_snippets/generic_snippets_open.talon' (64)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/generic_terminal/generic_terminal.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/generic_terminal/generic_terminal.py' (820)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/generic_terminal/generic_terminal.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/generic_terminal/generic_terminal.talon' (665)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/generic_terminal/generic_unix_shell.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/generic_terminal/generic_unix_shell.py' (1,443)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/generic_terminal/generic_windows_shell.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/generic_terminal/generic_windows_shell.py' (1,450)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/i3wm/i3wm.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/i3wm/i3wm.py' (865)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/i3wm/i3wm.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/i3wm/i3wm.talon' (3,821)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/jetbrains/jetbrains.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/jetbrains/jetbrains.py' (10,941)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/jetbrains/jetbrains.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/jetbrains/jetbrains.talon' (11,653)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/kindle/kindle.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/kindle/kindle.py' (211)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/kindle/kindle.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/kindle/kindle.talon' (47)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/kindle/win.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/kindle/win.py' (462)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/kubectl/kubectl.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/kubectl/kubectl.py' (616)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/kubectl/kubectl.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/kubectl/kubectl.talon' (2,162)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/okular/okular.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/okular/okular.py' (977)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/atril/atril.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/atril/atril.py' (802)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/okular/okular.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/okular/okular.talon' (47)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/atril/atril.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/atril/atril.talon' (46)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/dunst.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/dunst.talon' (406)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/evince/evince.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/evince/evince.py' (777)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/evince/evince.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/evince/evince.talon' (47)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/gnome-terminal/gnome-terminal.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/gnome-terminal/gnome-terminal.py' (1,757)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/gnome-terminal/gnome-terminal.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/gnome-terminal/gnome-terminal.talon' (141)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/guake.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/guake.py' (461)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/keepassx.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/keepassx.talon' (499)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/kde-konsole/kde-konsole.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/kde-konsole/kde-konsole.talon' (452)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/kde-konsole/kde-konsole.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/kde-konsole/kde-konsole.py' (1,674)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/nautilus/nautilus.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/nautilus/nautilus.py' (1,455)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/signal.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/signal.talon' (1,290)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/nautilus/nautilus.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/nautilus/nautilus.talon' (74)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/taskwarrior.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/taskwarrior.talon' (753)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/terminator/terminator-linux.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/terminator/terminator-linux.py' (2,432)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/termite.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/termite.talon' (421)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/mac/finder/finder.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/mac/finder/finder.py' (2,289)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/linux/tmux.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/linux/tmux.talon' (963)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/mac/finder/finder.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/mac/finder/finder.talon' (723)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/mac/iterm/iterm.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/mac/iterm/iterm.py' (2,369)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/mac/iterm/iterm.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/mac/iterm/iterm.talon' (186)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/mac/notes/notes.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/mac/notes/notes.py' (375)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/mac/notes/notes.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/mac/notes/notes.talon' (854)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/mac/rstudio.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/mac/rstudio.talon' (5,663)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/mac/safari/safari.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/mac/safari/safari.py' (2,964)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/mac/terminal/apple_terminal.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/mac/terminal/apple_terminal.py' (2,338)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/mac/terminal/apple_terminal.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/mac/terminal/apple_terminal.talon' (516)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/command_processor/command_processor.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/command_processor/command_processor.py' (3,359)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/command_processor/command_processor_actions.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/command_processor/command_processor_actions.py' (828)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/explorer/explorer.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/explorer/explorer.py' (4,495)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/explorer/explorer.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/explorer/explorer.talon' (273)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/mintty/mintty.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/mintty/mintty.py' (3,359)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/nitro_reader/nitro_reader_5.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/nitro_reader/nitro_reader_5.py' (862)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/nitro_reader/nitro_reader_5.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/nitro_reader/nitro_reader_5.talon' (76)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/notepad++/notepad++.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/notepad++/notepad++.py' (3,720)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/powershell/power_shell.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/powershell/power_shell.py' (2,207)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/outlook/outlook.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/outlook/outlook.talon' (233)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/powershell/power_shell.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/powershell/power_shell.talon' (454)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/sumatrapdf/sumatrapdf.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/sumatrapdf/sumatrapdf.py' (1,262)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/sumatrapdf/sumatrapdf.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/sumatrapdf/sumatrapdf.talon' (69)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/windows_terminal/windows_terminal.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/windows_terminal/windows_terminal.py' (2,601)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/windows_terminal/windows_terminal.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/windows_terminal/windows_terminal.talon' (613)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/wsl/wsl.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/wsl/wsl.py' (20,650)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/platforms/win/wsl/wsl.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/platforms/win/wsl/wsl.talon' (1,283)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/slack/slack.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/slack/slack.py' (487)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/slack/mac.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/slack/mac.py' (978)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/slack/slack_mac.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/slack/slack_mac.talon' (2,504)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/slack/win.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/slack/win.py' (1,046)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/slack/slack_win.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/slack/slack_win.talon' (2,501)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/talon_repl.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/talon_repl.talon' (2,009)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/teams/linux.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/teams/linux.py' (413)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/teams/teams.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/teams/teams.py' (162)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/teams/teams.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/teams/teams.talon' (2,023)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/teams/teams_mac.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/teams/teams_mac.talon' (2,228)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/terraform/terraform.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/terraform/terraform.py' (134)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/terraform/terraform.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/terraform/terraform.talon' (499)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/visualstudio/visual_studio.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/visualstudio/visual_studio.py' (7,213)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/visualstudio/visual_studio.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/visualstudio/visual_studio.talon' (2,270)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/visualstudio/win.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/visualstudio/win.py' (1,682)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/vscode/command_client/command_client.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/vscode/command_client/command_client.py' (13,121)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/vscode/README.md' -> 'Z:/Backup/Talon Data/chris_talon/apps/vscode/README.md' (402)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/vscode/snippets/csharp_snippets.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/vscode/snippets/csharp_snippets.py' (1,083)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/vscode/snippets/python_snippets.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/vscode/snippets/python_snippets.py' (1,079)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/vscode/command_client/README.md' -> 'Z:/Backup/Talon Data/chris_talon/apps/vscode/command_client/README.md' (956)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/vscode/vscode.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/vscode/vscode.py' (9,857)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/vscode/vscode.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/vscode/vscode.talon' (10,607)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/web/github.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/web/github.talon' (1,924)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/web/gitlab.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/web/gitlab.talon' (1,834)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/web/outlook.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/web/outlook.talon' (1,924)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/web/protonmail.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/web/protonmail.talon' (1,616)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/web/twitter.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/web/twitter.talon' (856)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/windbg/windbg.py' -> 'Z:/Backup/Talon Data/chris_talon/apps/windbg/windbg.py' (3,838)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/web/window_titles.md' -> 'Z:/Backup/Talon Data/chris_talon/apps/web/window_titles.md' (810)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/apps/windbg/windbg.talon' -> 'Z:/Backup/Talon Data/chris_talon/apps/windbg/windbg.talon' (1,111)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/click_talon/pop-click.py' -> 'Z:/Backup/Talon Data/chris_talon/click_talon/pop-click.py' (587)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/click_talon/hiss-rightclick.py' -> 'Z:/Backup/Talon Data/chris_talon/click_talon/hiss-rightclick.py' (2,080)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/abbreviate.py' -> 'Z:/Backup/Talon Data/chris_talon/code/abbreviate.py' (5,487)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/app_names/app_name_overrides.linux.csv' -> 'Z:/Backup/Talon Data/chris_talon/code/app_names/app_name_overrides.linux.csv' (42)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/app_names/app_name_overrides.mac.csv' -> 'Z:/Backup/Talon Data/chris_talon/code/app_names/app_name_overrides.mac.csv' (49)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/app_running.py' -> 'Z:/Backup/Talon Data/chris_talon/code/app_running.py' (228)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/app_names/app_name_overrides.windows.csv' -> 'Z:/Backup/Talon Data/chris_talon/code/app_names/app_name_overrides.windows.csv' (152)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/application_matches.py' -> 'Z:/Backup/Talon Data/chris_talon/code/application_matches.py' (1,193)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/browser.py' -> 'Z:/Backup/Talon Data/chris_talon/code/browser.py' (903)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/cancel.py' -> 'Z:/Backup/Talon Data/chris_talon/code/cancel.py' (699)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/chapters.py' -> 'Z:/Backup/Talon Data/chris_talon/code/chapters.py' (697)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/create_spoken_forms.py' -> 'Z:/Backup/Talon Data/chris_talon/code/create_spoken_forms.py' (13,067)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/code.py' -> 'Z:/Backup/Talon Data/chris_talon/code/code.py' (3,226)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/debugger.py' -> 'Z:/Backup/Talon Data/chris_talon/code/debugger.py' (5,436)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/desktops.py' -> 'Z:/Backup/Talon Data/chris_talon/code/desktops.py' (1,121)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/delayed_speech_off.py' -> 'Z:/Backup/Talon Data/chris_talon/code/delayed_speech_off.py' (952)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/edit.py' -> 'Z:/Backup/Talon Data/chris_talon/code/edit.py' (1,035)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/dictation.py' -> 'Z:/Backup/Talon Data/chris_talon/code/dictation.py' (18,330)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/engine.py' -> 'Z:/Backup/Talon Data/chris_talon/code/engine.py' (426)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/exec.py' -> 'Z:/Backup/Talon Data/chris_talon/code/exec.py' (368)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/extensions.py' -> 'Z:/Backup/Talon Data/chris_talon/code/extensions.py' (1,082)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/file_manager.py' -> 'Z:/Backup/Talon Data/chris_talon/code/file_manager.py' (11,637)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/find_and_replace.py' -> 'Z:/Backup/Talon Data/chris_talon/code/find_and_replace.py' (1,387)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/formatters.py' -> 'Z:/Backup/Talon Data/chris_talon/code/formatters.py' (10,837)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/help.py' -> 'Z:/Backup/Talon Data/chris_talon/code/help.py' (22,677)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/history.py' -> 'Z:/Backup/Talon Data/chris_talon/code/history.py' (2,311)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/help_scope.py' -> 'Z:/Backup/Talon Data/chris_talon/code/help_scope.py' (1,887)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/homophones.csv' -> 'Z:/Backup/Talon Data/chris_talon/code/homophones.csv' (8,967)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/homophones.py' -> 'Z:/Backup/Talon Data/chris_talon/code/homophones.py' (6,814)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/insert_between.py' -> 'Z:/Backup/Talon Data/chris_talon/code/insert_between.py' (827)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/keys.py' -> 'Z:/Backup/Talon Data/chris_talon/code/keys.py' (6,906)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/line_commands.py' -> 'Z:/Backup/Talon Data/chris_talon/code/line_commands.py' (1,170)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/macro.py' -> 'Z:/Backup/Talon Data/chris_talon/code/macro.py' (1,175)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/media.py' -> 'Z:/Backup/Talon Data/chris_talon/code/media.py' (283)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/messaging.py' -> 'Z:/Backup/Talon Data/chris_talon/code/messaging.py' (1,107)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/mouse.py' -> 'Z:/Backup/Talon Data/chris_talon/code/mouse.py' (13,407)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/microphone_selection.py' -> 'Z:/Backup/Talon Data/chris_talon/code/microphone_selection.py' (1,958)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/multiple_cursors.py' -> 'Z:/Backup/Talon Data/chris_talon/code/multiple_cursors.py' (1,038)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/numbers.py' -> 'Z:/Backup/Talon Data/chris_talon/code/numbers.py' (8,110)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/ordinals.py' -> 'Z:/Backup/Talon Data/chris_talon/code/ordinals.py' (2,294)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/pages.py' -> 'Z:/Backup/Talon Data/chris_talon/code/pages.py' (647)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/phrase_history.py' -> 'Z:/Backup/Talon Data/chris_talon/code/phrase_history.py' (2,780)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/platforms/linux/desktops.py' -> 'Z:/Backup/Talon Data/chris_talon/code/platforms/linux/desktops.py' (806)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/platforms/linux/app.py' -> 'Z:/Backup/Talon Data/chris_talon/code/platforms/linux/app.py' (1,117)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/platforms/linux/edit.py' -> 'Z:/Backup/Talon Data/chris_talon/code/platforms/linux/edit.py' (4,477)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/platforms/mac/desktops.py' -> 'Z:/Backup/Talon Data/chris_talon/code/platforms/mac/desktops.py' (1,418)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/platforms/mac/app.py' -> 'Z:/Backup/Talon Data/chris_talon/code/platforms/mac/app.py' (924)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/platforms/mac/edit.py' -> 'Z:/Backup/Talon Data/chris_talon/code/platforms/mac/edit.py' (4,548)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/platforms/win/app.py' -> 'Z:/Backup/Talon Data/chris_talon/code/platforms/win/app.py' (1,121)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/platforms/win/desktops.py' -> 'Z:/Backup/Talon Data/chris_talon/code/platforms/win/desktops.py' (507)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/platforms/win/edit.py' -> 'Z:/Backup/Talon Data/chris_talon/code/platforms/win/edit.py' (4,481)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/screen.py' -> 'Z:/Backup/Talon Data/chris_talon/code/screen.py' (2,394)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/Resources/HiddenCursor.cur' -> 'Z:/Backup/Talon Data/chris_talon/code/Resources/HiddenCursor.cur' (326)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/screenshot.py' -> 'Z:/Backup/Talon Data/chris_talon/code/screenshot.py' (3,856)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/snippet_watcher.py' -> 'Z:/Backup/Talon Data/chris_talon/code/snippet_watcher.py' (3,732)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/splits.py' -> 'Z:/Backup/Talon Data/chris_talon/code/splits.py' (1,235)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/switcher.py' -> 'Z:/Backup/Talon Data/chris_talon/code/switcher.py' (11,778)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/tabs.py' -> 'Z:/Backup/Talon Data/chris_talon/code/tabs.py' (533)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/system_paths.py' -> 'Z:/Backup/Talon Data/chris_talon/code/system_paths.py' (2,299)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/tags.py' -> 'Z:/Backup/Talon Data/chris_talon/code/tags.py' (425)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/user_settings.py' -> 'Z:/Backup/Talon Data/chris_talon/code/user_settings.py' (2,645)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/talon_helpers.py' -> 'Z:/Backup/Talon Data/chris_talon/code/talon_helpers.py' (5,986)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/vocabulary.py' -> 'Z:/Backup/Talon Data/chris_talon/code/vocabulary.py' (9,885)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/window_snap.py' -> 'Z:/Backup/Talon Data/chris_talon/code/window_snap.py' (9,302)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/websites_and_search_engines.py' -> 'Z:/Backup/Talon Data/chris_talon/code/websites_and_search_engines.py' (2,142)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/conftest.py' -> 'Z:/Backup/Talon Data/chris_talon/conftest.py' (1,896)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/draft_editor/draft_editor.py' -> 'Z:/Backup/Talon Data/chris_talon/draft_editor/draft_editor.py' (2,867)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/draft_editor/draft_editor_open.talon' -> 'Z:/Backup/Talon Data/chris_talon/draft_editor/draft_editor_open.talon' (167)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/draft_editor/draft_editor.talon' -> 'Z:/Backup/Talon Data/chris_talon/draft_editor/draft_editor.talon' (242)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/emoji/emoji.csv' -> 'Z:/Backup/Talon Data/chris_talon/emoji/emoji.csv' (424)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/emoji/emoji.talon' -> 'Z:/Backup/Talon Data/chris_talon/emoji/emoji.talon' (144)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/emoji/emoji.py' -> 'Z:/Backup/Talon Data/chris_talon/emoji/emoji.py' (954)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/emoji/emoticon.csv' -> 'Z:/Backup/Talon Data/chris_talon/emoji/emoticon.csv' (168)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/emoji/kaomoji.csv' -> 'Z:/Backup/Talon Data/chris_talon/emoji/kaomoji.csv' (324)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/eye_tracking_settings.py' -> 'Z:/Backup/Talon Data/chris_talon/eye_tracking_settings.py' (403)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/batch/batch.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/batch/batch.py' (254)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/batch/batch.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/batch/batch.talon' (392)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/c/c.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/c/c.py' (10,747)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/c/c.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/c/c.talon' (4,750)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/csharp/csharp.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/csharp/csharp.py' (7,030)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/csharp/csharp.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/csharp/csharp.talon' (919)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/css/css.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/css/css.py' (3,426)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/css/css.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/css/css.talon' (1,348)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/go/go.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/go/go.talon' (5,391)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/java/java.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/java/java.py' (8,298)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/java/java.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/java/java.talon' (1,324)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/javascript/javascript.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/javascript/javascript.py' (7,685)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/javascript/javascript.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/javascript/javascript.talon' (1,554)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/javascript/javascriptreact.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/javascript/javascriptreact.talon' (54)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/markdown/markdown.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/markdown/markdown.py' (278)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/markdown/markdown.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/markdown/markdown.talon' (273)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/matlab/matlab.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/matlab/matlab.py' (11,092)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/matlab/matlab.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/matlab/matlab.talon' (4,498)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/php/php.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/php/php.py' (6,189)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/php/php.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/php/php.talon' (1,028)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/proto/proto.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/proto/proto.py' (623)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/proto/proto.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/proto/proto.talon' (421)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/python/python.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/python/python.py' (8,389)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/python/python.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/python/python.talon' (1,736)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/r/r.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/r/r.py' (10,026)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/r/r.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/r/r.talon' (1,264)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/ruby/ruby.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/ruby/ruby.py' (4,593)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/ruby/ruby.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/ruby/ruby.talon' (1,214)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/rust/rust.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/rust/rust.py' (14,478)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/rust/rust.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/rust/rust.talon' (3,251)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/scala/scala.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/scala/scala.talon' (1,180)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/scala/scala.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/scala/scala.py' (7,848)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/sql/sql.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/sql/sql.talon' (351)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/comment_block.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/comment_block.py' (938)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/comment_block.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/comment_block.talon' (1,786)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/comment_documentation.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/comment_documentation.py' (334)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/comment_line.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/comment_line.py' (303)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/comment_documentation.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/comment_documentation.talon' (90)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/comment_line.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/comment_line.talon' (1,640)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/data_bool.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/data_bool.talon' (105)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/data_bool.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/data_bool.py' (327)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/data_null.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/data_null.talon' (182)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/data_null.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/data_null.py' (398)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/functions.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/functions.py' (3,818)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/functions.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/functions.talon' (682)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/functions_common.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/functions_common.py' (2,644)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/functions_common.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/functions_common.talon' (440)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/functions_common_gui_active.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/functions_common_gui_active.talon' (164)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/imperative.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/imperative.talon' (572)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/imperative.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/imperative.py' (1,467)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/libraries.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/libraries.py' (273)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/libraries.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/libraries.talon' (63)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/libraries_gui.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/libraries_gui.py' (2,338)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/libraries_gui.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/libraries_gui.talon' (376)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/object_oriented.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/object_oriented.py' (599)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/library_gui_open.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/library_gui_open.talon' (325)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/object_oriented.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/object_oriented.talon' (203)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/operators_array.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/operators_array.talon' (105)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/operators_array.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/operators_array.py' (283)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/operators_assignment.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/operators_assignment.py' (1,493)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/operators_assignment.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/operators_assignment.talon' (1,017)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/operators_bitwise.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/operators_bitwise.py' (646)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/operators_lambda.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/operators_lambda.py' (331)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/operators_bitwise.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/operators_bitwise.talon' (520)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/operators_lambda.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/operators_lambda.talon' (342)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/operators_math.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/operators_math.py' (1,365)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/operators_math.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/operators_math.talon' (1,003)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/operators_pointer.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/operators_pointer.py' (491)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/tags/operators_pointer.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/tags/operators_pointer.talon' (210)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/talon/talon.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/talon/talon.py' (2,792)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/talon/talon.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/talon/talon.talon' (2,109)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/terraform/terraform.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/terraform/terraform.py' (3,574)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/terraform/terraform.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/terraform/terraform.talon' (710)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/typescript/typescript.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/typescript/typescript.py' (2,497)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/typescript/typescript.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/typescript/typescript.talon' (49)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/vimscript/vimscript.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/vimscript/vimscript.py' (2,301)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/typescript/typescriptreact.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/typescript/typescriptreact.talon' (83)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/vimscript/vimscript.talon' -> 'Z:/Backup/Talon Data/chris_talon/lang/vimscript/vimscript.talon' (1,231)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/abbreviate.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/abbreviate.talon' (71)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/cancel.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/cancel.talon' (416)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/chapters.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/chapters.talon' (185)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/datetimeinsert.py' -> 'Z:/Backup/Talon Data/chris_talon/misc/datetimeinsert.py' (717)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/datetimeinsert.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/datetimeinsert.talon' (454)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/desktops.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/desktops.talon' (320)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/LICENSE' -> 'Z:/Backup/Talon Data/chris_talon/LICENSE' (1,146)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/extensions.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/extensions.talon' (43)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/formatters.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/formatters.talon' (1,062)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/git.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/git.talon' (4,498)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/git_add_patch.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/git_add_patch.talon' (217)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/help.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/help.talon' (792)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/help_open.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/help_open.talon' (241)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/help_scope_open.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/help_scope_open.talon' (79)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/history.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/history.talon' (218)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/keys.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/keys.talon' (594)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/macro.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/macro.talon' (97)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/media.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/media.talon' (239)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/messaging.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/messaging.talon' (787)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/microphone_selection.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/microphone_selection.talon' (181)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/mouse_cursor.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/mouse_cursor.talon' (116)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/mouse.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/mouse.talon' (3,263)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/multiple_cursors.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/multiple_cursors.talon' (479)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/pages.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/pages.talon' (158)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/repeater.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/repeater.talon' (294)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/screens.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/screens.talon' (49)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/screenshot.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/screenshot.talon' (535)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/splits.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/splits.talon' (618)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/standard.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/standard.talon' (674)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/tabs.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/tabs.talon' (308)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/talon_helpers.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/talon_helpers.talon' (2,087)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/vocabulary.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/vocabulary.talon' (802)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/websites_and_search_engines.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/websites_and_search_engines.talon' (268)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/misc/window_management.talon' -> 'Z:/Backup/Talon Data/chris_talon/misc/window_management.talon' (1,027)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/modes/dictation_mode.talon' -> 'Z:/Backup/Talon Data/chris_talon/modes/dictation_mode.talon' (2,684)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/modes/dragon_modes.talon' -> 'Z:/Backup/Talon Data/chris_talon/modes/dragon_modes.talon' (250)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/modes/modes.py' -> 'Z:/Backup/Talon Data/chris_talon/modes/modes.py' (1,844)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/modes/language_modes.talon' -> 'Z:/Backup/Talon Data/chris_talon/modes/language_modes.talon' (233)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/modes/modes.talon' -> 'Z:/Backup/Talon Data/chris_talon/modes/modes.talon' (295)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/modes/sleep_mode_wav2letter.talon' -> 'Z:/Backup/Talon Data/chris_talon/modes/sleep_mode_wav2letter.talon' (225)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/modes/sleep_mode.talon' -> 'Z:/Backup/Talon Data/chris_talon/modes/sleep_mode.talon' (348)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/modes/wake_up.talon' -> 'Z:/Backup/Talon Data/chris_talon/modes/wake_up.talon' (432)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/mouse_grid/mouse_grid.talon' -> 'Z:/Backup/Talon Data/chris_talon/mouse_grid/mouse_grid.talon' (181)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/mouse_grid/mouse_grid.py' -> 'Z:/Backup/Talon Data/chris_talon/mouse_grid/mouse_grid.py' (10,368)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/mouse_grid/mouse_grid_always.talon' -> 'Z:/Backup/Talon Data/chris_talon/mouse_grid/mouse_grid_always.talon' (333)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/mouse_grid/mouse_grid_open.talon' -> 'Z:/Backup/Talon Data/chris_talon/mouse_grid/mouse_grid_open.talon' (198)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/settings/additional_words.csv' -> 'Z:/Backup/Talon Data/chris_talon/settings/additional_words.csv' (155)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/README.md' -> 'Z:/Backup/Talon Data/chris_talon/README.md' (19,989)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/settings/file_extensions.csv' -> 'Z:/Backup/Talon Data/chris_talon/settings/file_extensions.csv' (431)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/settings/search_engines.csv' -> 'Z:/Backup/Talon Data/chris_talon/settings/search_engines.csv' (255)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/settings/system_paths.csv' -> 'Z:/Backup/Talon Data/chris_talon/settings/system_paths.csv' (466)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/settings/websites.csv' -> 'Z:/Backup/Talon Data/chris_talon/settings/websites.csv' (849)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/settings.talon' -> 'Z:/Backup/Talon Data/chris_talon/settings.talon' (2,164)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/settings/words_to_replace.csv' -> 'Z:/Backup/Talon Data/chris_talon/settings/words_to_replace.csv' (184)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/shared_settings_module.py' -> 'Z:/Backup/Talon Data/chris_talon/shared_settings_module.py' (322)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/talon_draft_window/__init__.py' -> 'Z:/Backup/Talon Data/chris_talon/talon_draft_window/__init__.py' (61)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/talon_draft_window/draft_global.talon' -> 'Z:/Backup/Talon Data/chris_talon/talon_draft_window/draft_global.talon' (999)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/talon_draft_window/doc/talon-draft-demo.gif' -> 'Z:/Backup/Talon Data/chris_talon/talon_draft_window/doc/talon-draft-demo.gif' (44,925)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/talon_draft_window/draft_talon_helpers.py' -> 'Z:/Backup/Talon Data/chris_talon/talon_draft_window/draft_talon_helpers.py' (9,650)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/talon_draft_window/draft_ui.py' -> 'Z:/Backup/Talon Data/chris_talon/talon_draft_window/draft_ui.py' (6,896)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/talon_draft_window/draft_window.talon' -> 'Z:/Backup/Talon Data/chris_talon/talon_draft_window/draft_window.talon' (1,604)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/talon_draft_window/LICENSE' -> 'Z:/Backup/Talon Data/chris_talon/talon_draft_window/LICENSE' (1,094)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/talon_draft_window/draft_window_open.talon' -> 'Z:/Backup/Talon Data/chris_talon/talon_draft_window/draft_window_open.talon' (423)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/talon_draft_window/README.md' -> 'Z:/Backup/Talon Data/chris_talon/talon_draft_window/README.md' (1,814)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/talon_draft_window/test_draft_ui.py' -> 'Z:/Backup/Talon Data/chris_talon/talon_draft_window/test_draft_ui.py' (2,139)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/talon_draft_window/settings.talon.example' -> 'Z:/Backup/Talon Data/chris_talon/talon_draft_window/settings.talon.example' (337)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/tests/repo_root_init.py' -> 'Z:/Backup/Talon Data/chris_talon/tests/repo_root_init.py' (267)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/tests/stubs/README' -> 'Z:/Backup/Talon Data/chris_talon/tests/stubs/README' (329)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/tests/stubs/talon/__init__.py' -> 'Z:/Backup/Talon Data/chris_talon/tests/stubs/talon/__init__.py' (2,572)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/tests/stubs/talon/experimental/textarea.py' -> 'Z:/Backup/Talon Data/chris_talon/tests/stubs/talon/experimental/textarea.py' (85)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/tests/stubs/talon/grammar.py' -> 'Z:/Backup/Talon Data/chris_talon/tests/stubs/talon/grammar.py' (365)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/tests/test_dictation.py' -> 'Z:/Backup/Talon Data/chris_talon/tests/test_dictation.py' (2,142)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/tests/test_formatters.py' -> 'Z:/Backup/Talon Data/chris_talon/tests/test_formatters.py' (631)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/text/find_and_replace.talon' -> 'Z:/Backup/Talon Data/chris_talon/text/find_and_replace.talon' (2,679)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/text/generic_editor.talon' -> 'Z:/Backup/Talon Data/chris_talon/text/generic_editor.talon' (3,257)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/text/homophones.talon' -> 'Z:/Backup/Talon Data/chris_talon/text/homophones.talon' (679)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/text/homophones_open.talon' -> 'Z:/Backup/Talon Data/chris_talon/text/homophones_open.talon' (323)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/text/line_commands.talon' -> 'Z:/Backup/Talon Data/chris_talon/text/line_commands.talon' (2,366)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/text/numbers.talon' -> 'Z:/Backup/Talon Data/chris_talon/text/numbers.talon' (78)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/text/symbols.talon' -> 'Z:/Backup/Talon Data/chris_talon/text/symbols.talon' (1,985)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/text/text_navigation.py' -> 'Z:/Backup/Talon Data/chris_talon/text/text_navigation.py' (10,559)
+2022-05-31 21:29:11: Copy New 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/text/text_navigation.talon' -> 'Z:/Backup/Talon Data/chris_talon/text/text_navigation.talon' (4,962)
+2022-05-31 21:29:11: == Sync Complete. Time: 00:00:01, Speed: 0.00/s, OK: 755, Errors: 0

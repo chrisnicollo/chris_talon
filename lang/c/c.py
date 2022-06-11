@@ -323,13 +323,13 @@ class UserActions:
     # chrisnicollo EDIT START: formatted to work in VSCode
     def code_state_if():
         actions.insert("if () {\n")
-        actions.key("up:1 right:2")
+        actions.key("up:1 ")
         # actions.insert("if () {\n}\n")
         # actions.key("up:2 left:3")
 
     def code_state_else_if():
         actions.insert("else if () {\n")
-        actions.key("up:1 right:7")
+        actions.key("up:1 right:5")
         # actions.insert("else if () {\n}\n")
         # actions.key("up:2 left:3")
     

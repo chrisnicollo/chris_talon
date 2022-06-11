@@ -10,7 +10,7 @@ language_extensions = {
     # 'assembly': 'asm s',
     # 'bash': 'bashbook sh',
     "batch": "bat",
-    "c": "c h",
+    "c": "c h cpp hpp", # chrisnicollo EDIT: using c in talon for cpp
     # 'cmake': 'cmake',
     # 'cplusplus': 'cpp hpp',
     "csharp": "cs",

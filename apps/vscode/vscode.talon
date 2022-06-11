@@ -244,3 +244,6 @@ cell run above: user.vscode("jupyter.runallcellsabove.palette")
 cell run: user.vscode("jupyter.runcurrentcell")
 
 install local: user.vscode("workbench.extensions.action.installVSIX")
+
+# chrisnicollo EDIT: enabling wrapper snippets with cursorless
+tag(): user.cursorless_experimental_snippets

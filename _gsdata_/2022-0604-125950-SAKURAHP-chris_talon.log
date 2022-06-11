@@ -1,0 +1,6 @@
+2022-06-04 12:59:58: == Sync Started by Sync Only Command
+2022-06-04 12:59:58: Copy Over 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/settings/additional_words.csv' -> 'Z:/Backup/Talon Data/chris_talon/settings/additional_words.csv' (180)
+2022-06-04 12:59:58: Copy Over 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/code/code.py' -> 'Z:/Backup/Talon Data/chris_talon/code/code.py' (3,280)
+2022-06-04 12:59:58: Copy Over 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/settings/websites.csv' -> 'Z:/Backup/Talon Data/chris_talon/settings/websites.csv' (947)
+2022-06-04 12:59:58: Copy Over 'C:/Users/Christina/AppData/Roaming/talon/user/chris_talon/lang/c/c.py' -> 'Z:/Backup/Talon Data/chris_talon/lang/c/c.py' (10,740)
+2022-06-04 12:59:58: == Sync Complete. Time: 00:00:00, Speed: 0.00/s, OK: 4, Errors: 0
