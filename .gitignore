@@ -5,3 +5,5 @@ __pycache__
 # Locally generated
 /settings
 .vscode/settings.json
+/_gsdata_/
+/click_talon/_gsdata_/
