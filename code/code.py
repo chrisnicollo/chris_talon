@@ -39,6 +39,7 @@ language_extensions = {
     # 'sass': 'sass',
     "scala": "scala",
     # 'snippets': 'snippets',
+    "sql": "sql",
     "talon": "talon",
     "terraform": "tf",
     "typescript": "ts",
