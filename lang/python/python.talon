@@ -18,9 +18,14 @@ tag(): user.code_operators_bitwise
 tag(): user.code_operators_math
 
 settings():
-    user.code_private_function_formatter = "SNAKE_CASE"
-    user.code_protected_function_formatter = "SNAKE_CASE"
-    user.code_public_function_formatter = "SNAKE_CASE"
+    # chrisnicollo EDIT START
+    # user.code_private_function_formatter = "SNAKE_CASE"
+    # user.code_protected_function_formatter = "SNAKE_CASE"
+    # user.code_public_function_formatter = "SNAKE_CASE"
+    user.code_private_function_formatter = "PUBLIC_CAMEL_CASE"
+    user.code_protected_function_formatter = "PUBLIC_CAMEL_CASE"
+    user.code_public_function_formatter = "PUBLIC_CAMEL_CASE"
+    # chrisnicollo EDIT END
     user.code_private_variable_formatter = "SNAKE_CASE"
     user.code_protected_variable_formatter = "SNAKE_CASE"
     user.code_public_variable_formatter = "SNAKE_CASE"
