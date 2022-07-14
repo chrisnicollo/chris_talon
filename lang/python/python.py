@@ -7,7 +7,8 @@ ctx = Context()
 ctx.matches = r"""
 tag: user.python
 """
-ctx.lists["user.code_common_function"] = {
+ctx.lists["user.code_common_function"] = { # chrisnicollo EDIT: For these, say "funk" rather than "funky"
+    "dict": "dict", # chrisnicollo EDIT
     "enumerate": "enumerate",
     "integer": "int",
     "length": "len",
@@ -17,6 +18,7 @@ ctx.lists["user.code_common_function"] = {
     "set": "set",
     "split": "split",
     "string": "str",
+    "tuple": "tuple", # chrisnicollo EDIT 
     "update": "update",
 }
 
