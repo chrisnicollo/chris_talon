@@ -25,8 +25,11 @@ git cherry pick skip: "git cherry-pick --skip "
 git clone: "git clone "
 # Leave \n out for confirmation since the operation is destructive
 git clean everything: "git clean -dfx"
-git commit message <user.text>: "git commit -m \"{text}\""
-# chrisnicollo EDIT
+# chrisnicollo EDIT: git commit message <user.text>: "git commit -m \"{text}\""
+git commit message <user.text>:
+    text = user.formatted_text(text, "CAPITALIZE_FIRST_WORD")    
+    "git commit -m \"{text}\""
+# chrisnicollo EDIT: git commit without message requirement
 git commit: "git commit" 
 git commit amend: "git commit --amend\n"
 git commit no verify: "git commit -n"
