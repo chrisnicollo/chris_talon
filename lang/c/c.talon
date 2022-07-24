@@ -95,12 +95,12 @@ class <phrase>:
     
 <user.c_variable> funky <phrase>:
     functionName = user.formatted_text(phrase, "PUBLIC_CAMEL_CASE")
-    insert("{c_variable} {functionName} ()")
+    insert("{c_variable} {functionName}()")
     edit.left()
 
 static <user.c_variable> funky <phrase>:
     functionName = user.formatted_text(phrase, "PUBLIC_CAMEL_CASE")
-    insert("static {c_variable} {functionName} ()")
+    insert("static {c_variable} {functionName}()")
     edit.left()   
 
 scope standard:    
@@ -108,21 +108,14 @@ scope standard:
 
 # FIXME: consider making a list of common scopes 
 
-# scope {user.prose_formatter} <phrase>$:
-    # user.insert_formatted(phrase, prose_formatter)
-    # print("printed formated text")
-    # insert("::")
-# FIXME: Why isn't this working and formatting the text?
+scope {user.formatters} <phrase>:
+    # text = user.formatted_text(phrase, "PUBLIC_CAMEL_CASE")
+    text = user.formatted_text(phrase, formatters)
+    insert("{text}::")
 
 scope <phrase>:    
     insert("{phrase}::")
-    print("scope without formatting")
     
-scope ham <phrase>:
-    text = user.formatted_text(phrase, "PUBLIC_CAMEL_CASE")
-    insert("{text}::")    
-    # FIXME: Figure out how to do this with other formats
-
 constant:
     insert("const ")
 see out: "cout"
