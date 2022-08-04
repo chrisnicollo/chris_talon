@@ -179,6 +179,17 @@ copy word right:
     edit.extend_word_right()
     edit.copy()
 
+# chrisnicollo EDIT START
+# TODO: ensure these are useful and don't conflict with anything
+copy way left:
+    edit.extend_line_start()
+    edit.copy()
+
+copy way right:
+    edit.extend_line_end()
+    edit.copy()
+# chrisnicollo EDIT END
+
 copy line:
     edit.select_line()
     edit.copy()
@@ -212,6 +223,17 @@ cut word left:
 cut word right:
     edit.extend_word_right()
     edit.cut()
+
+# chrisnicollo EDIT START
+# TODO: ensure these are useful and don't conflict with anything
+cut way left:
+    edit.extend_line_start()
+    edit.cut()
+
+cut way right:
+    edit.extend_line_end()
+    edit.cut()
+# chrisnicollo EDIT END
 
 cut line:
     edit.select_line()
