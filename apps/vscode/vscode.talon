@@ -7,6 +7,8 @@ tag(): user.multiple_cursors
 tag(): user.snippets
 tag(): user.splits
 tag(): user.tabs
+# chrisnicollo EDIT: enabling wrapper snippets with cursorless
+tag(): user.cursorless_experimental_snippets
 window reload: user.vscode("workbench.action.reloadWindow")
 window close: user.vscode("workbench.action.closeWindow")
 #multiple_cursor.py support end
@@ -253,6 +255,3 @@ cell run: user.vscode("jupyter.runcurrentcell")
 
 install local: user.vscode("workbench.extensions.action.installVSIX")
 preview markdown: user.vscode("markdown.showPreview")
-
-# chrisnicollo EDIT: enabling wrapper snippets with cursorless
-tag(): user.cursorless_experimental_snippets
