@@ -239,6 +239,17 @@ cut line:
     edit.select_line()
     edit.cut()
 
+# chrisnicollo EDIT START
+# TODO: ensure these are useful and don't conflict with anything
+(pace | paste) way left:
+    edit.extend_line_start()
+    edit.paste()
+
+(pace | paste) way right:
+    edit.extend_line_end()
+    edit.paste()
+# chrisnicollo EDIT END
+
 (pace | paste) all:
   edit.select_all()
   edit.paste()
