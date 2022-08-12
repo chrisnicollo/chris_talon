@@ -25,12 +25,15 @@ git cherry pick skip: "git cherry-pick --skip "
 git clone: "git clone "
 # Leave \n out for confirmation since the operation is destructive
 git clean everything: "git clean -dfx"
-# chrisnicollo EDIT: git commit message <user.text>: "git commit -m \"{text}\""
-git commit message <user.text>:
-    text = user.formatted_text(text, "CAPITALIZE_FIRST_WORD")    
-    "git commit -m \"{text}\""
-# chrisnicollo EDIT: git commit without message requirement
-git commit: "git commit" 
+# chrisnicollo EDIT START
+git commit message [<user.text>]:
+    text = text or ""
+    text = user.formatted_text(text, "CAPITALIZE_FIRST_WORD") 
+    user.insert_between("git commit -m \"", "\"")
+    "{text}"
+# FIXME: Figure out the command to insert text without just writing a string
+git commit: "git commit"
+# chrisnicollo EDIT START
 git commit amend: "git commit --amend\n"
 git commit no verify: "git commit -n"
 git commit existing: "git commit -a\n"
@@ -130,14 +133,3 @@ git commit highlighted:
     insert("git add ")
     edit.paste()
     insert("\ngit commit\n")
-
-# chrisnicollo EDIT START
-# Windows directory navigation
-change directory: "cd "
-
-change directory <user.text>: "cd {text}"
-
-go directory back: "cd .."
-    
-show directory: "dir"
- # chrisnicollo EDIT END
