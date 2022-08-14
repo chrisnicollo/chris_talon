@@ -62,3 +62,7 @@ from import: user.insert_between("from ", " import ")
 
 # chrisnicollo EDIT START
 op floor divide: " // "
+state async: "async "
+state async (def | deaf | deft): "async def "
+state await: "await "
+state await with: "await with "
