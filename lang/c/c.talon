@@ -89,17 +89,17 @@ push brackets:
     # insert("class {className}")
 # Note that you can use user.text rather than phrase (IS THERE A DIFFERENCE?)
 
-class <phrase>:
-    className = user.formatted_text(phrase, "PUBLIC_CAMEL_CASE,NO_SPACES")
+class <user.text>:
+    className = user.formatted_text(text, "PUBLIC_CAMEL_CASE,NO_SPACES")
     insert("class {className}")
     
-<user.c_variable> funky <phrase>:
-    functionName = user.formatted_text(phrase, "PUBLIC_CAMEL_CASE")
+<user.c_variable> funky <user.text>:
+    functionName = user.formatted_text(text, "PUBLIC_CAMEL_CASE")
     insert("{c_variable} {functionName}()")
     edit.left()
 
-static <user.c_variable> funky <phrase>:
-    functionName = user.formatted_text(phrase, "PUBLIC_CAMEL_CASE")
+static <user.c_variable> funky <user.text>:
+    functionName = user.formatted_text(text, "PUBLIC_CAMEL_CASE")
     insert("static {c_variable} {functionName}()")
     edit.left()   
 
@@ -108,13 +108,13 @@ scope standard:
 
 # FIXME: consider making a list of common scopes 
 
-scope {user.formatters} <phrase>:
+scope {user.formatters} <user.text>:
     # text = user.formatted_text(phrase, "PUBLIC_CAMEL_CASE")
-    text = user.formatted_text(phrase, formatters)
+    text = user.formatted_text(text, formatters)
     insert("{text}::")
 
-scope <phrase>:    
-    insert("{phrase}::")
+scope <user.text>:    
+    insert("{text}::")
     
 constant:
     insert("const ")

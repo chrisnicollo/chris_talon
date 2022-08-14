@@ -94,12 +94,9 @@ op <user.formatters> <user.legv8_operators>:
     text = user.formatted_text("{legv8_operators}", formatters)
     "{text} "
 
-
-reg <user.number_string>:
-    "R{number_string}"
-
-reg <user.formatters> <user.number_string>:
-    letter = user.formatted_text("r", formatters)
+reg [<user.formatters>] <user.number_string>:
+    formatter = formatters or "ALL_CAPS"
+    letter = user.formatted_text("r", formatter)
     "{letter}{number_string}"
     
 # mead: "#"

@@ -30,8 +30,7 @@ git commit message [<user.text>]:
     text = text or ""
     text = user.formatted_text(text, "CAPITALIZE_FIRST_WORD") 
     user.insert_between("git commit -m \"", "\"")
-    "{text}"
-# FIXME: Figure out the command to insert text without just writing a string
+    insert("{text}")
 git commit: "git commit"
 # chrisnicollo EDIT START
 git commit amend: "git commit --amend\n"
