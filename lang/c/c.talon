@@ -84,10 +84,7 @@ push brackets:
     insert("{c_variable} {letter} ")
 
 # chrisnicollo EDIT START    
-# class <user.text>:
-    # className = user.formatted_text(text, "PUBLIC_CAMEL_CASE,NO_SPACES")
-    # insert("class {className}")
-# Note that you can use user.text rather than phrase (IS THERE A DIFFERENCE?)
+# Note that you can use phrase rather than user.text (but phrase doesn't allow you to use custom vocabulary)
 
 class <user.text>:
     className = user.formatted_text(text, "PUBLIC_CAMEL_CASE,NO_SPACES")

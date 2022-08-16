@@ -32,7 +32,7 @@ git commit message [<user.text>]:
     user.insert_between("git commit -m \"", "\"")
     insert("{text}")
 git commit: "git commit"
-# chrisnicollo EDIT START
+# chrisnicollo EDIT END
 git commit amend: "git commit --amend\n"
 git commit no verify: "git commit -n"
 git commit existing: "git commit -a\n"
