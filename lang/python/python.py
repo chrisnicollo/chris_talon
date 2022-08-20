@@ -7,6 +7,16 @@ ctx = Context()
 ctx.matches = r"""
 tag: user.python
 """
+
+# chrisnicollo EDIT START: starting to add common python libraries
+# tag: libraries_gui
+ctx.lists["user.code_libraries"] = {
+    "collections": "collections",
+    "oh es": "os",
+    "system": "sys",
+}
+# chrisnicollo EDIT END
+
 ctx.lists["user.code_common_function"] = { # chrisnicollo EDIT: For these, say "funk" rather than "funky"
     "dict": "dict", # chrisnicollo EDIT
     "enumerate": "enumerate",
@@ -339,3 +349,9 @@ class UserActions:
 
     def code_insert_return_type(type: str):
         actions.insert(f" -> {type}")
+
+    # chrisnicollo EDIT START: Functionality to import common libraries        
+    # tag: libraries_gui
+    def code_insert_library(text: str, selection: str):
+        actions.user.paste(f"import {text}")
+    # chrisnicollo EDIT END
