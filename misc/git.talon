@@ -27,10 +27,8 @@ git clone: "git clone "
 git clean everything: "git clean -dfx"
 # chrisnicollo EDIT START
 git commit message [<user.text>]:
-    text = text or ""
-    text = user.formatted_text(text, "CAPITALIZE_FIRST_WORD") 
     user.insert_between("git commit -m \"", "\"")
-    insert("{text}")
+    insert("{user.formatted_text(text or '', 'CAPITALIZE_FIRST_WORD')}")
 git commit: "git commit"
 # chrisnicollo EDIT END
 git commit amend: "git commit --amend\n"

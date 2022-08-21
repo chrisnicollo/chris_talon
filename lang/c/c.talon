@@ -100,21 +100,19 @@ static <user.c_variable> funky <user.text>:
     insert("static {c_variable} {functionName}()")
     edit.left()   
 
+[state] new <user.c_variable> [<user.text>]: "new {c_variable} {user.formatted_text(text or '', 'camel')}"
+
+state new: "new "
+
 scope standard:    
     insert("std::")
 
 # FIXME: consider making a list of common scopes 
 
-scope {user.formatters} <user.text>:
-    # text = user.formatted_text(phrase, "PUBLIC_CAMEL_CASE")
-    text = user.formatted_text(text, formatters)
-    insert("{text}::")
-
-scope <user.text>:    
-    insert("{text}::")
+scope [{user.formatters}] <user.text>:
+    insert("{user.formatted_text(text, formatters or 'PUBLIC_CAMEL_CASE')}::")
     
-constant:
-    insert("const ")
+constant: "const "
 see out: "cout"
 see in: "cin"
 op insertion: " << "
