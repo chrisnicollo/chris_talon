@@ -10,6 +10,8 @@ cut that: edit.cut()
   edit.paste()
   key(enter)
 undo that: edit.undo()
+# chrisnicollo EDIT: Try an alternative to undo that
+nope: edit.undo()
 redo that: edit.redo()
 paste match: edit.paste_match_style()
 file save: edit.save()

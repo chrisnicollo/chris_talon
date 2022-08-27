@@ -131,7 +131,8 @@ punctuation_words = {
     ",": ",",  # <== these things
     "back tick": "`",
     "grave": "`",
-    "drip": ",", # chrisnicollo EDIT: Try this out as an alternative for 'comma'
+    # "drip": ",", # chrisnicollo EDIT: Try this out as an alternative for 'comma'
+    "coma": ",", # chrisnicollo EDIT: Try this out as an alternative for 'comma'
     "comma": ",",
     "period": ".",
     "full stop": ".",
