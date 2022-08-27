@@ -80,10 +80,10 @@ push brackets:
     insert("{c_variable} ")
     insert(user.formatted_text(phrase, "PRIVATE_CAMEL_CASE,NO_SPACES"))
 
+# chrisnicollo EDIT START
 <user.c_variable> <user.letter>:
-    insert("{c_variable} {letter} ")
+    insert("{c_variable} {letter}")
 
-# chrisnicollo EDIT START    
 # Note that you can use phrase rather than user.text (but phrase doesn't allow you to use custom vocabulary)
 
 class <user.text>:
@@ -100,7 +100,8 @@ static <user.c_variable> funky <user.text>:
     insert("static {c_variable} {functionName}()")
     edit.left()   
 
-[state] new <user.c_variable> [<user.text>]: "new {c_variable} {user.formatted_text(text or '', 'camel')}"
+# [state] new <user.c_variable> [<user.text>]: "new {c_variable} {user.formatted_text(text or '', 'camel')}"
+[state] new <user.c_variable>: "new {c_variable}"
 
 state new: "new "
 
