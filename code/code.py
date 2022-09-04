@@ -7,6 +7,7 @@ mod = Module()
 # here which have a supported language mode; that's why there are so many
 # commented out entries. TODO: make this a csv file?
 language_extensions = {
+    'armv8': 's', # chrisnicollo EDIT
     # 'assembly': 'asm s',
     # 'bash': 'bashbook sh',
     "batch": "bat",
@@ -24,7 +25,6 @@ language_extensions = {
     "javascript": "js",
     "javascriptreact": "jsx",
     # 'json': 'json',
-    'legv8': 's', # chrisnicollo EDIT
     # 'lua': 'lua',
     'markdown': 'md',
     'matlab': 'm', # chrisnicollo EDIT
@@ -52,12 +52,12 @@ language_extensions = {
 # Override speakable forms for language modes. If not present, a language mode's
 # name is used directly.
 language_name_overrides = {
+    "armv8": ["arm", "arm vee", "arm vee eight"], # chrisnicollo EDIT
     "cplusplus": ["see plus plus"],
     "csharp": ["see sharp"],
     "css": ["c s s"],
     "gdb": ["g d b"],
     "go": ["go", "go lang", "go language"],
-    "legv8": ["leg", "leg vee", "leg vee eight"], # chrisnicollo EDIT
     "r": ["are language"],
 }
 mod.list("language_mode", desc="Name of a programming language mode.")

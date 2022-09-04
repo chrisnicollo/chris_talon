@@ -10,23 +10,23 @@ mod.setting(
 
 ctx = Context()
 ctx.matches = r"""
-tag: user.legv8
+tag: user.armv8
 """
 
-# Actual legv8 commands list
-ctx.lists["self.legv8_operators"] = {
+# Actual armv8 commands list
+ctx.lists["self.armv8_operators"] = {
     "add": "add",
     "move": "mov",
     "software interrupt": "swi",
     "soft rupt": "swi",
 }
 
-ctx.lists["self.legv8_number_types"] = {
+ctx.lists["self.armv8_number_types"] = {
     "bin": "0b",
     "hex": "0x",
 }
 # Unsure yet of what list this is, but these terms seem to be related
-ctx.lists["self.legv8_starts_with_dot"] = {
+ctx.lists["self.armv8_starts_with_dot"] = {
     "global": "global",
     "text": "text",
 }
@@ -151,9 +151,9 @@ ctx.lists["user.code_common_function"] = {
     "free": "free",
 }
 
-# Actual legv8 commands
-mod.list("legv8_operators", desc="Common LEGv8 operators")
-mod.list("legv8_number_types", desc="Number base types")
+# Actual armv8 commands
+mod.list("armv8_operators", desc="Common ARMv8 operators")
+mod.list("armv8_number_types", desc="Number base types")
 mod.list("c_pointers", desc="Common C pointers")
 mod.list("c_signed", desc="Common C datatype signed modifiers")
 mod.list("c_keywords", desc="C keywords")
@@ -161,16 +161,16 @@ mod.list("c_types", desc="Common C types")
 mod.list("stdint_types", desc="Common stdint C types")
 mod.list("stdint_signed", desc="Common stdint C datatype signed modifiers")
 
-# Actual legv8 commands function
-@mod.capture(rule="{self.legv8_operators}")
-def legv8_operators(m) -> str:
+# Actual armv8 commands function
+@mod.capture(rule="{self.armv8_operators}")
+def armv8_operators(m) -> str:
     "Returns a string"
-    return m.legv8_operators
+    return m.armv8_operators
 
-@mod.capture(rule="{self.legv8_number_types}")
-def legv8_number_types(m) -> str:
+@mod.capture(rule="{self.armv8_number_types}")
+def armv8_number_types(m) -> str:
     "Returns a string"
-    return m.legv8_number_types
+    return m.armv8_number_types
 
 @mod.capture(rule="{self.c_pointers}")
 def c_pointers(m) -> str:
@@ -256,8 +256,8 @@ class UserActions:
     def code_operator_subtraction_assignment():
         actions.auto_insert(" -= ")
 
-    def code_operator_addition():
-        actions.auto_insert(" + ")
+    # def code_operator_addition():
+    #     actions.auto_insert(" + ")
 
     def code_operator_addition_assignment():
         actions.auto_insert(" += ")

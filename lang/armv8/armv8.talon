@@ -1,4 +1,4 @@
-tag: user.legv8
+tag: user.armv8
 -
 tag(): user.code_imperative
 # NOTE: THE COMMENT TAG IS ACTUALLY IMPORTANT
@@ -11,9 +11,9 @@ tag(): user.code_functions_common
 tag(): user.code_libraries
 tag(): user.code_libraries_gui
 tag(): user.code_operators_array
-tag(): user.code_operators_assignment
+# tag(): user.code_operators_assignment
 tag(): user.code_operators_bitwise
-tag(): user.code_operators_math
+# tag(): user.code_operators_math
 # tag(): user.code_operators_pointer
 
 
@@ -73,7 +73,7 @@ include <user.code_libraries>:
     key(end enter)
 
 
-# Actual legv8 commands
+# Actual armv8 commands
 
 label <user.text>: "_{text}"
 
@@ -82,16 +82,16 @@ label <user.formatters> <user.text>:
     "_{text}"
 # FIXME: Are these actually called labels?
 
-op <user.legv8_operators>: 
-    text = user.formatted_text("{legv8_operators}", "ALL_CAPS")
+op <user.armv8_operators>: 
+    text = user.formatted_text("{armv8_operators}", "ALL_CAPS")
     "{text} "
 
-op low <user.legv8_operators>: 
-    text = user.formatted_text("{legv8_operators}", "ALL_LOWERCASE")
+op low <user.armv8_operators>: 
+    text = user.formatted_text("{armv8_operators}", "ALL_LOWERCASE")
     "{text} "
 
-op <user.formatters> <user.legv8_operators>:
-    text = user.formatted_text("{legv8_operators}", formatters)
+op <user.formatters> <user.armv8_operators>:
+    text = user.formatted_text("{armv8_operators}", formatters)
     "{text} "
 
 reg [<user.formatters>] <user.number_string>:
@@ -100,7 +100,7 @@ reg [<user.formatters>] <user.number_string>:
     "{letter}{number_string}"
     
 # mead: "#"
-<user.legv8_number_types>: "{legv8_number_types}"
+<user.armv8_number_types>: "{armv8_number_types}"
 
     # result = user.homophones_select(number_small)
     # insert(user.formatted_text(result, formatters))
