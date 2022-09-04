@@ -14,3 +14,6 @@ tag(): user.generic_windows_shell
 tag(): user.git
 tag(): user.anaconda
 # tag(): user.kubectl
+
+# chrisnicollo EDIT: Activate file manager commands within powershell
+tag(): user.file_manager
