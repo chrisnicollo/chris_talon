@@ -134,6 +134,8 @@ punctuation_words = {
     # "drip": ",", # chrisnicollo EDIT: Try this out as an alternative for 'comma'
     "coma": ",", # chrisnicollo EDIT: Try this out as an alternative for 'comma'
     "comma": ",",
+    # Workaround for issue with conformer b-series; see #946
+    "coma": ",",
     "period": ".",
     "full stop": ".",
     "semicolon": ";",

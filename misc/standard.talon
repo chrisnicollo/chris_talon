@@ -7,8 +7,8 @@ copy that: edit.copy()
 cut that: edit.cut()
 (pace | paste) that: edit.paste()
 (pace | paste) enter:
-  edit.paste()
-  key(enter)
+    edit.paste()
+    key(enter)
 undo that: edit.undo()
 # chrisnicollo EDIT: Try an alternative to undo that
 nope: edit.undo()
