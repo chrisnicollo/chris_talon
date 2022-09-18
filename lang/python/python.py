@@ -20,15 +20,18 @@ ctx.lists["user.code_libraries"] = {
 ctx.lists["user.code_common_function"] = { # chrisnicollo EDIT: For these, say "funk" rather than "funky"
     "dict": "dict", # chrisnicollo EDIT
     "enumerate": "enumerate",
+    "filter": "filter", # chrisnicollo EDIT
     "integer": "int",
     "length": "len",
     "list": "list",
+    "map": "map", # chrisnicollo EDIT
     "print": "print",
     "range": "range",
     "set": "set",
     "split": "split",
     "string": "str",
-    "tuple": "tuple", # chrisnicollo EDIT 
+    "tuple": "tuple", # chrisnicollo EDIT
+    "type": "type", # chrisnicollo EDIT
     "update": "update",
 }
 

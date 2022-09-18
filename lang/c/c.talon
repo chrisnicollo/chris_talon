@@ -81,8 +81,7 @@ push brackets:
     insert(user.formatted_text(phrase, "PRIVATE_CAMEL_CASE,NO_SPACES"))
 
 # chrisnicollo EDIT START
-<user.c_variable> <user.letter>:
-    insert("{c_variable} {letter}")
+<user.c_variable> <user.letter>: insert("{c_variable} {letter}")
 
 # Note that you can use phrase rather than user.text (but phrase doesn't allow you to use custom vocabulary)
 
@@ -99,6 +98,10 @@ static <user.c_variable> funky <user.text>:
     functionName = user.formatted_text(text, "PUBLIC_CAMEL_CASE")
     insert("static {c_variable} {functionName}()")
     edit.left()   
+
+<self.c_pointers>+ <user.text>:
+    insert("{c_pointers}")
+    insert(user.formatted_text(text, "PRIVATE_CAMEL_CASE,NO_SPACES"))
 
 # [state] new <user.c_variable> [<user.text>]: "new {c_variable} {user.formatted_text(text or '', 'camel')}"
 [state] new <user.c_variable>: "new {c_variable}"
@@ -119,6 +122,7 @@ see in: "cin"
 op insertion: " << "
 op extraction: " >> "
 end line: "endl"
+sempush: ";\n"
 # chrisnicollo EDIT END
 
 # Ex. (int *)
