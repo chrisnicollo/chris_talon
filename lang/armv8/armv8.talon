@@ -96,12 +96,14 @@ op <user.formatters> <user.armv8_operators>:
 
 reg [<user.formatters>] <user.number_string>:
     formatter = formatters or "ALL_CAPS"
-    letter = user.formatted_text("r", formatter)
+    letter = user.formatted_text("x", formatter)
     "{letter}{number_string}"
     
-# mead: "#"
 <user.armv8_number_types>: "{armv8_number_types}"
 
+# mead: "#"
+
+#test <user.armv8_test_operators>: "{armv8_test_operators}"
     # result = user.homophones_select(number_small)
     # insert(user.formatted_text(result, formatters))
     # user.homophones_hide()

@@ -14,17 +14,34 @@ tag: user.armv8
 """
 
 # Actual armv8 commands list
-ctx.lists["self.armv8_operators"] = {
+ctx.lists["self.armv8_arithmetic_operators"] = {
     "add": "add",
+    "addition": "add",
     "move": "mov",
     "software interrupt": "swi",
     "soft rupt": "swi",
+    "sub": 'sub',
+    "subtract": "sub",
+}
+
+ctx.lists["self.armv8_data_transfer_operators"] = {
+    "load register": "ldur",
+    "store register": "stur",
+}
+
+ctx.lists["self.armv8_logical_operators"] = {
+    "and": "and"
+}
+
+ctx.lists["self.armv8_branch_operators"] = {
+    "branch": "b"
 }
 
 ctx.lists["self.armv8_number_types"] = {
     "bin": "0b",
     "hex": "0x",
 }
+
 # Unsure yet of what list this is, but these terms seem to be related
 ctx.lists["self.armv8_starts_with_dot"] = {
     "global": "global",
@@ -152,8 +169,13 @@ ctx.lists["user.code_common_function"] = {
 }
 
 # Actual armv8 commands
-mod.list("armv8_operators", desc="Common ARMv8 operators")
+mod.list("armv8_arithmetic_operators", desc="Common ARMv8 arithmetic operators")
+mod.list("armv8_data_transfer_operators", desc="Common ARMv8 data transfer operators")
+mod.list("armv8_logical_operators", desc="Common ARMv8 logical operators")
+mod.list("armv8_branch_operators", desc="Common ARMv8 branch operators")
 mod.list("armv8_number_types", desc="Number base types")
+mod.list("armv8_starts_with_dot", desc="Unsure what these do yet")
+# Commands from C I haven't gotten rid of
 mod.list("c_pointers", desc="Common C pointers")
 mod.list("c_signed", desc="Common C datatype signed modifiers")
 mod.list("c_keywords", desc="C keywords")
@@ -162,10 +184,16 @@ mod.list("stdint_types", desc="Common stdint C types")
 mod.list("stdint_signed", desc="Common stdint C datatype signed modifiers")
 
 # Actual armv8 commands function
-@mod.capture(rule="{self.armv8_operators}")
+# Note that the below function is no longer in use and was the original operators function
+@mod.capture(rule="{self.armv8_arithmetic_operators}")
+def armv8_arithmetic_operators(m) -> str:
+    "Returns a string"
+    return m.armv8_arithmetic_operator
+
+@mod.capture(rule="{self.armv8_arithmetic_operators} | {self.armv8_data_transfer_operators} | {self.armv8_logical_operators} | {self.armv8_branch_operators}")
 def armv8_operators(m) -> str:
     "Returns a string"
-    return m.armv8_operators
+    return str(m)
 
 @mod.capture(rule="{self.armv8_number_types}")
 def armv8_number_types(m) -> str:
