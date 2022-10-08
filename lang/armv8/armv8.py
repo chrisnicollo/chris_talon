@@ -26,15 +26,29 @@ ctx.lists["self.armv8_arithmetic_operators"] = {
 
 ctx.lists["self.armv8_data_transfer_operators"] = {
     "load register": "ldur",
+    "load reg": "ldur",
+    "load byte": "ldurb",
+    "load half": "ldurh",
     "store register": "stur",
+    "store reg": "stur",
+    "store byte": "sturb",
+    "store half": "sturh",
 }
 
 ctx.lists["self.armv8_logical_operators"] = {
-    "and": "and"
+    "and": "and",
+    "move": "mov",
 }
 
 ctx.lists["self.armv8_branch_operators"] = {
-    "branch": "b"
+    "branch": "b",
+    "branch if not zero": "cbnz",
+    "branch if zero": "cbz",
+    "branch reg": "br",
+    "branch to register": "br",
+    "branch with link": "bl",
+    "branch link": "bl",
+    "blink": "bl",
 }
 
 ctx.lists["self.armv8_number_types"] = {
@@ -432,7 +446,7 @@ class UserActions:
         actions.auto_insert("false")
 
     def code_comment_line_prefix(): # Note: ACTUALLY AN IMPORTANT FUNCTION HERE
-        actions.auto_insert("@ ") 
+        actions.auto_insert("# ") 
 
     def code_insert_function(text: str, selection: str):
         if selection:

@@ -83,7 +83,7 @@ label <user.formatters> <user.text>:
 # FIXME: Are these actually called labels?
 
 op <user.armv8_operators>: 
-    text = user.formatted_text("{armv8_operators}", "ALL_CAPS")
+    text = user.formatted_text("{armv8_operators}", "ALL_LOWERCASE")
     "{text} "
 
 op low <user.armv8_operators>: 
@@ -100,6 +100,8 @@ reg [<user.formatters>] <user.number_string>:
     "{letter}{number_string}"
     
 <user.armv8_number_types>: "{armv8_number_types}"
+
+spoint: "SP"
 
 # mead: "#"
 
