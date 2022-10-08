@@ -1,3 +1,4 @@
+# chrisnicollo EDIT: getting rid of the linux requirement
 # os: linux
 # XXX - this matches .gdb files atm
 #win.title: /gdb/
@@ -28,6 +29,7 @@ print string: "p/s "
 # hexdumping
 # XXX - switch the sizes to a list in python?
 # XXX - should cache the last used size
+# chrisnicollo EDIT: Changing the specifics of this command output
 # hex dump <number> bytes: "x/{number}bx "
 hex dump <number> bytes: "x/{number}xb "
 hex dump <number> (half | short) words: "x/{number}hx "
