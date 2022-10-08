@@ -1,4 +1,4 @@
-os: linux
+# os: linux
 # XXX - this matches .gdb files atm
 #win.title: /gdb/
 tag: terminal
@@ -28,7 +28,8 @@ print string: "p/s "
 # hexdumping
 # XXX - switch the sizes to a list in python?
 # XXX - should cache the last used size
-hex dump <number> bytes: "x/{number}bx "
+# hex dump <number> bytes: "x/{number}bx "
+hex dump <number> bytes: "x/{number}xb "
 hex dump <number> (half | short) words: "x/{number}hx "
 hex dump <number> (d | long) words: "x/{number}dx "
 hex dump <number> quad words: "x/{number}gx "

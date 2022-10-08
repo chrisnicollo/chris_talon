@@ -13,6 +13,7 @@ tag: user.python
 ctx.lists["user.code_libraries"] = {
     "collections": "collections",
     "oh es": "os",
+    "sys": "sys",
     "system": "sys",
 }
 # chrisnicollo EDIT END
