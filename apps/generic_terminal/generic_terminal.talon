@@ -12,6 +12,9 @@ run last: user.terminal_run_last()
 rerun [<user.text>]: user.terminal_rerun_search(text or "")
 rerun search: user.terminal_rerun_search("")
 kill all: user.terminal_kill_all()
+# chrisnicollo EDIT START
+print working: user.terminal_print_working_directory()
+# chrisnicollo EDIT END
 
 copy paste:
     edit.copy()

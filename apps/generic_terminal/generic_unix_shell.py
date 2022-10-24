@@ -51,3 +51,10 @@ class Actions:
         actions.key("ctrl-c")
         actions.insert("y")
         actions.key("enter")
+
+    # chrisnicollo EDIT START
+    def terminal_print_working_directory():
+        """Shows working directory"""
+        actions.insert("pwd")
+        actions.key("enter")
+    # chrisnicollo EDIT END

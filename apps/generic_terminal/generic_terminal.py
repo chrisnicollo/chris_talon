@@ -30,3 +30,8 @@ class Actions:
 
     def terminal_kill_all():
         """kills the running command"""
+
+    # chrisnicollo EDIT START
+    def terminal_print_working_directory():
+        """Shows working directory"""
+    # chrisnicollo EDIT END

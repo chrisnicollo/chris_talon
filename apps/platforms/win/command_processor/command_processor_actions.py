@@ -23,6 +23,13 @@ class UserActions:
         actions.insert("cd ..")
         actions.key("enter")
         actions.user.file_manager_refresh_title()
+    
+    # chrisnicollo EDIT START
+    def terminal_print_working_directory():
+        """Shows working directory"""
+        actions.insert("cd")
+        actions.key("enter")
+    # chrisnicollo EDIT END
 
 
 @ctx.action_class("edit")

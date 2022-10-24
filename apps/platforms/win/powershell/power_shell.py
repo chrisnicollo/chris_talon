@@ -72,3 +72,11 @@ class UserActions:
     def file_manager_open_volume(volume: str):
         """file_manager_open_volume"""
         actions.user.file_manager_open_directory(volume)
+    
+    # chrisnicollo EDIT START
+    def terminal_print_working_directory():
+        """Shows working directory"""
+        actions.insert("pwd")
+        actions.key("enter")
+    # chrisnicollo EDIT END
+    
