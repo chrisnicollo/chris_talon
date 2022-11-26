@@ -230,7 +230,7 @@ simple_keys = [
     "insert",
     "pagedown",
     "pageup",
-    # "space", # chrisnicollo EDIT: Trying out a replacement for space
+    "space",
     "tab",
 ]
 
@@ -241,7 +241,7 @@ alternate_keys = {
     "forward delete": "delete",
     "page up": "pageup",
     "page down": "pagedown",
-    "void": "space", # chrisnicollo EDIT: Trying out a replacement for space 
+    # "void": "space", # chrisnicollo EDIT: Tried out a replacement for space 
 }
 # mac apparently doesn't have the menu key.
 if app.platform in ("windows", "linux"):
