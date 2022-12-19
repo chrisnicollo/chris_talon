@@ -4,6 +4,7 @@ triple quote: "'''"
 (dot dot | dotdot): ".."
 ellipses: "..."
 (comma and | spamma): ", "
+# chrisnicollo EDIT: semicolon spamma command
 (semi | semicolon) (and | spamma): "; "
 arrow: "->"
 dub arrow: "=>"
