@@ -14,6 +14,9 @@ anaconda clean: "conda clean "
 anaconda compare: "conda compare "
 anaconda config: "conda config "
 anaconda create: "conda create "
+# chrisnicollo EDIT START: add conda deactivate
+anaconda deactivate: "conda deactivate "
+# chrisnicollo EDIT END
 anaconda info: "conda info "
 anaconda init: "conda init "
 anaconda install: "conda install "

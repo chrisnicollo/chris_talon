@@ -8,3 +8,10 @@ tag(): user.generic_unix_shell
 # tag(): user.kubectl
 tag(): user.file_manager
 tag(): user.anaconda
+
+module load [<user.text>]: 
+    insert("module load ")
+    insert(user.text or "")
+module spyder [<user.text>]: 
+    insert("module spyder ")
+    insert(user.text or "")

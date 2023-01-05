@@ -27,7 +27,11 @@ class UserActions:
     def file_manager_open_parent():
         actions.insert("cd ..")
         actions.key("enter")
-        
+    
+    def terminal_print_working_directory():
+        """Shows working directory"""
+        actions.insert("pwd")
+        actions.key("enter")
         
 #     # user.tabs
 #     def tab_jump(number):

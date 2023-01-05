@@ -7,6 +7,9 @@ lisa all: user.terminal_list_all_directories()
 katie [dir] [<user.text>]: user.terminal_change_directory(text or "")
 katie root: user.terminal_change_directory_root()
 katie (up | back): user.terminal_change_directory("..")
+# chrisnicollo EDIT START: add directory up command
+dir up [slash]: "../"
+# chrisnicollo EDIT END
 go <user.system_path>: insert('cd "{system_path}"\n')
 clear screen: user.terminal_clear_screen()
 run last: user.terminal_run_last()
