@@ -8,6 +8,7 @@ tag(): user.generic_unix_shell
 # tag(): user.kubectl
 tag(): user.file_manager
 tag(): user.anaconda
+tag(): user.git
 
 module load [<user.text>]: 
     insert("module load ")

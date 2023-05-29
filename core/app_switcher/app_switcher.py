@@ -53,6 +53,7 @@ words_to_exclude = [
     "installer",
     "microsoft",
     "nine",
+    "note", # chrisnicollo EDIT: exclude app names containing "note"
     "readme",
     "studio",
     "terminal",
