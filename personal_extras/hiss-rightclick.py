@@ -56,7 +56,7 @@ def hiss_handler(active):
 
 # register the handler to the noise
 # FIXME: Uncomment the next line to get right click without eye tracker
-noise.register("hiss", right_click)
+# noise.register("hiss", right_click)
 
 # register the handler to the noise
 #noise.register("hiss", right_click)
