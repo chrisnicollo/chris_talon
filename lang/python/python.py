@@ -5,7 +5,7 @@ from talon import Context, Module, actions, settings
 mod = Module()
 ctx = Context()
 ctx.matches = r"""
-tag: user.python
+code.language: python
 """
 
 # chrisnicollo EDIT START: starting to add common python libraries
