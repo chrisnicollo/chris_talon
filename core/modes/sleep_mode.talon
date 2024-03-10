@@ -1,16 +1,16 @@
 mode: sleep
 -
 settings():
-    #stop continuous scroll/gaze scroll with a pop
+    # Stop continuous scroll/gaze scroll with a pop
     # chrisnicollo EDIT START
-    user.mouse_enable_pop_stops_scroll = 1
-    # user.mouse_enable_pop_stops_scroll = 0
-	#enable pop click with 'control mouse' mode
-	user.mouse_enable_pop_click = 1
+    user.mouse_enable_pop_stops_scroll = true
+    # user.mouse_enable_pop_stops_scroll = false
+    # Stop pop click with 'control mouse' mode
+    user.mouse_enable_pop_click = 1
     # user.mouse_enable_pop_click = 0
     # chrisnicollo EDIT END
     # Stop mouse scroll down using hiss noise
-    user.mouse_enable_hiss_scroll = 0
+    user.mouse_enable_hiss_scroll = false
 
 #================================================================================
 # Commands to wake Talon
@@ -28,7 +28,7 @@ settings():
 # Thus, if you say "blah blah blah talon wake", these won't trigger, because "blah
 # blah blah" was part of the same utterance. You have to say "blah blah blah" <pause,
 # wait for speech timeout>, "talon wake" <pause, wait for speech timeout>.
-
+!
 # Sometimes people would forget the second pause, notice things weren't working, and
 # say "talon wake" over and over again before the speech timeout ever gets hit, which
 # means that these won't recognize. The (+) handles this case, so if you say
