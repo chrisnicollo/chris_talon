@@ -64,7 +64,10 @@ and app.exe: cmd.exe
 apps.windows_terminal = """
 os: windows
 and app.exe: WindowsTerminal.exe
+os: windows
+and app.name: WindowsTerminal.exe
 """
+# chrisnicollo EDIT: update windows terminal match properties
 
 mod.apps.windows_power_shell = """
 os: windows

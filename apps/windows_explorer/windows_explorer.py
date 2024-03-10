@@ -119,6 +119,7 @@ class UserActions:
     def file_manager_open_directory(path: str):
         """opens the directory that's already visible in the view"""
         actions.key("ctrl-l")
+        actions.sleep("50ms") # chrisnicollo EDIT: pause to select directory bar before editing
         actions.insert(path)
         actions.key("enter")
 

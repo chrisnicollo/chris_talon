@@ -7,6 +7,7 @@ app: windows_power_shell
 app: windows_terminal
 and win.title: /PowerShell/
 """
+ctx.tags = ["user.file_manager"] # chrisnicollo EDIT: Activate file manager commands within PowerShell
 
 directories_to_remap = {}
 directories_to_exclude = {}

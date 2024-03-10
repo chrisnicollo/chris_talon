@@ -18,7 +18,8 @@ inside (squares | square brackets | list): user.insert_between("[", "]")
 inside (bracket | braces): user.insert_between("{", "}")
 inside percent: user.insert_between("%", "%")
 inside (quotes | string): user.insert_between("'", "'")
-inside (double quotes | dub quotes): user.insert_between('"', '"')
+# chrisnicollo EDIT: add inside dub string
+inside (double quotes | dub quotes | dub string): user.insert_between('"', '"')
 inside (graves | back ticks): user.insert_between("`", "`")
 # chrisnicollo EDIT START
 inside angles: user.insert_between("<", ">")
