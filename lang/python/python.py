@@ -19,6 +19,7 @@ ctx.lists["user.code_libraries"] = {
 # chrisnicollo EDIT END
 
 ctx.lists["user.code_common_function"] = { # chrisnicollo EDIT: For these, say "funk" rather than "funky"
+    "absolute": "abs", # chrisnicollo EDIT
     "deck": "deque", # chrisnicollo EDIT
     "dict": "dict", # chrisnicollo EDIT
     "enumerate": "enumerate",
