@@ -22,6 +22,7 @@ language_extensions = {
     "javascript": "js",
     "javascriptreact": "jsx",
     # 'json': 'json',
+    "kotlin": "kt",
     "lua": "lua",
     'markdown': 'md',
     'matlab': 'm', # chrisnicollo EDIT
@@ -38,7 +39,9 @@ language_extensions = {
     "scss": "scss",
     # 'snippets': 'snippets',
     "sql": "sql",
+    "stata": "do ado",
     "talon": "talon",
+    "talonlist": "talon-list",
     "terraform": "tf",
     "tex": "tex",
     "typescript": "ts",
