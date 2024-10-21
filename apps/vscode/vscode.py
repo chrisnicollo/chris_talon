@@ -26,6 +26,8 @@ os: linux
 and app.name: VSCodium
 os: linux
 and app.name: Codium
+os: linux
+and app.name: Cursor
 """
 mod.apps.vscode = r"""
 os: windows
@@ -45,7 +47,7 @@ and app.exe: /^vscodium\.exe$/i
 os: windows
 and app.name: Azure Data Studio
 os: windows
-and app.exe: azuredatastudio.exe
+and app.exe: /^azuredatastudio\.exe$/i
 """
 
 ctx.matches = r"""
@@ -101,13 +103,11 @@ class EditActions:
     def save_all():
         actions.user.vscode("workbench.action.files.saveAll")
 
-    def find(text=None):
-        if is_mac:
-            actions.key("cmd-f")
-        else:
-            actions.key("ctrl-f")
-        if text is not None:
-            actions.insert(text)
+    def find_next():
+        actions.user.vscode("editor.action.nextMatchFindAction")
+
+    def find_previous():
+        actions.user.vscode("editor.action.previousMatchFindAction")
 
     def line_swap_up():
         actions.key("alt-up")
@@ -162,6 +162,14 @@ class Actions:
     def command_palette():
         """Show command palette"""
         actions.key("ctrl-shift-p")
+
+
+@mac_ctx.action_class("edit")
+class MacEditActions:
+    def find(text: str = None):
+        actions.key("cmd-f")
+        if text:
+            actions.insert(text)
 
 
 @mac_ctx.action_class("user")
@@ -246,6 +254,11 @@ class UserActions:
     def multi_cursor_skip_occurrence():
         actions.user.vscode("editor.action.moveSelectionToNextFindMatch")
 
+    def command_search(command: str = ""):
+        actions.user.vscode("workbench.action.showCommands")
+        if command != "":
+            actions.insert(command)
+
     def tab_jump(number: int):
         if number < 10:
             if is_mac:
@@ -275,26 +288,6 @@ class UserActions:
                 actions.key(f"ctrl-{index}")
 
     # splits.py support end
-
-    # find.py support begin
-
-    def find(text: str):
-        """Triggers find in current editor"""
-        if is_mac:
-            actions.key("cmd-f")
-        else:
-            actions.key("ctrl-f")
-
-        if text:
-            actions.insert(text)
-
-    def find_next():
-        actions.user.vscode("editor.action.nextMatchFindAction")
-
-    def find_previous():
-        actions.user.vscode("editor.action.previousMatchFindAction")
-
-    # find.py support end
 
     # find_and_replace.py support begin
 
