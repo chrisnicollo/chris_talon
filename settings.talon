@@ -14,7 +14,7 @@ settings():
 
     # Set the number of command lines to display per help page
     # chrisnicollo EDIT - was originally 50
-    user.help_max_command_lines_per_page = 40
+    user.help_max_command_lines_per_page = 35
 
     # Set the number of contexts to display per help page
     user.help_max_contexts_per_page = 20
@@ -32,7 +32,7 @@ settings():
     # 0 = off
     # 1 = on with eyetracker but not zoom mouse mode
     # 2 = on but not with zoom mouse mode
-    user.mouse_enable_pop_click = 2
+    user.mouse_enable_pop_click = 1
 
     # If `true`, use a hissing noise to scroll continuously
     user.mouse_enable_hiss_scroll = false
