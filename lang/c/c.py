@@ -183,7 +183,6 @@ def c_cast(m) -> str:
     return "(" + " ".join(list(m)) + ")"
 
 
-# def c_stdint_cast(m) -> str: # chrisnicollo EDIT: had changed function name to match spoken command
 @mod.capture(rule="[<self.stdint_signed>] <self.stdint_types> [<self.c_pointers>+]")
 def stdint_cast(m) -> str:
     "Returns a string"
@@ -371,7 +370,7 @@ class UserActions:
         actions.auto_insert("false")
 
     def code_comment_line_prefix():
-        actions.auto_insert("// ") # chrisnicollo EDIT - Added a space to the end
+        actions.auto_insert("// ") # chrisnicollo EDIT: Added a space to the end
 
     def code_insert_function(text: str, selection: str):
         if selection:

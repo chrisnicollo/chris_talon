@@ -7,8 +7,6 @@ tag(): user.multiple_cursors
 tag(): user.splits
 tag(): user.tabs
 tag(): user.command_search
-# chrisnicollo EDIT: enabling wrapper snippets with cursorless
-tag(): user.cursorless_experimental_snippets
 
 window reload: user.vscode("workbench.action.reloadWindow")
 window close: user.vscode("workbench.action.closeWindow")

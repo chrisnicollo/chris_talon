@@ -13,7 +13,7 @@ settings():
     user.file_manager_auto_show_pickers = false
 
     # Set the number of command lines to display per help page
-    # chrisnicollo EDIT - was originally 50
+    # chrisnicollo EDIT: was originally 50
     user.help_max_command_lines_per_page = 35
 
     # Set the number of contexts to display per help page
@@ -95,4 +95,5 @@ settings():
 # By default saying "one" would write "1", however many users find this behavior
 # prone to false positives. If you uncomment this, you will need to say
 # "numb one" to write "1". Note that this tag will eventually be activated by default
-# tag(): user.prefixed_numbers
+# chrisnicollo EDIT: uncommented the tag to require numbers to be said with a prefix
+tag(): user.prefixed_numbers
