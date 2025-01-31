@@ -1,6 +1,9 @@
 os: windows
 and app.name: Windows PowerShell
 os: windows
+app: windows_terminal
+and win.title: /PowerShell/
+os: windows
 and app.exe: powershell.exe
 -
 # makes the commands in terminal.talon available
@@ -15,5 +18,4 @@ tag(): user.git
 tag(): user.anaconda
 # tag(): user.kubectl
 
-# chrisnicollo EDIT: Activate file manager commands within powershell
 tag(): user.file_manager

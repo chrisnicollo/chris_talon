@@ -1,0 +1,8 @@
+list: user.prose_formatter
+-
+say: NOOP
+speak: NOOP
+sentence: CAPITALIZE_FIRST_WORD
+# chrisnicollo EDIT: an alternative for 'sentence'
+sense: CAPITALIZE_FIRST_WORD
+title: CAPITALIZE_ALL_WORDS
