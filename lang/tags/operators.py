@@ -39,6 +39,7 @@ class Operators(TypedDict, total=False):
     ASSIGNMENT_DIVISION: Operator
     ASSIGNMENT_MODULO: Operator
     ASSIGNMENT_INCREMENT: Operator
+    ASSIGNMENT_DECREMENT: Operator # chrisnicollo EDIT: Add decrement operator to code operators list
     ASSIGNMENT_BITWISE_AND: Operator
     ASSIGNMENT_BITWISE_OR: Operator
     ASSIGNMENT_BITWISE_EXCLUSIVE_OR: Operator
@@ -127,6 +128,8 @@ def operators_fallback(identifier: str) -> None:
             actions.user.code_operator_modulo_assignment()
         case "ASSIGNMENT_INCREMENT":
             actions.user.code_operator_increment()
+        case "ASSIGNMENT_DECREMENT": # chrisnicollo EDIT: Add legacy action for decrement operator
+            actions.user.code_operator_decrement() # chrisnicollo EDIT
         case "ASSIGNMENT_BITWISE_AND":
             actions.user.code_operator_bitwise_and_assignment()
         case "ASSIGNMENT_BITWISE_OR":

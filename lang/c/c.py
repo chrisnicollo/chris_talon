@@ -246,7 +246,8 @@ class UserActions:
 
     # chrisnicollo EDIT START: adding increment and decrement operators
     def code_operator_increment():
-        actions.auto_insert('++') 
+        actions.auto_insert('++')
+
     def code_operator_decrement():
         actions.auto_insert('--') 
     # chrisnicollo EDIT END

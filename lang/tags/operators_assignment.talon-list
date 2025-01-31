@@ -13,6 +13,8 @@ times equals: ASSIGNMENT_MULTIPLICATION
 divide equals: ASSIGNMENT_DIVISION
 mod equals: ASSIGNMENT_MODULO
 increment: ASSIGNMENT_INCREMENT
+# chrisnicollo EDIT: Add spoken form of decrement function
+decrement: ASSIGNMENT_DECREMENT
 
 # Bitwise operators
 bitwise and equals: ASSIGNMENT_BITWISE_AND
