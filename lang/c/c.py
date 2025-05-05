@@ -41,7 +41,7 @@ ctx.lists["self.stdint_types"] = {
     "double": "double",
     "struct": "struct",
     "struck": "struct",
-    "num": "enum",
+    "enum": "enum", # chrisnicollo EDIT
     "union": "union",
     "float": "float",
 }
@@ -58,7 +58,7 @@ ctx.lists["self.c_types"] = {
     "double": "double",
     "struct": "struct",
     "struck": "struct",
-    "num": "enum",
+    "enum": "enum", # chrisnicollo EDIT
     "union": "union",
     "float": "float",
 }
@@ -321,7 +321,7 @@ class UserActions:
     def code_insert_is_not_null():
         actions.auto_insert(" != NULL")
 
-    # chrisnicollo EDIT START: formatted to work in VSCode
+    # chrisnicollo EDIT START: Formatted to work in VSCode
     def code_state_if():
         actions.insert("if () {\n")
         actions.user.engine_mimic("clear way left twice")
@@ -330,7 +330,7 @@ class UserActions:
         # actions.key("up:2 left:3")
 
     def code_state_else_if():
-        actions.insert("else if () {\n")
+        actions.insert(" else if () {\n")
         actions.user.engine_mimic("clear way left twice")
         actions.key("left:3 ")
         #actions.key("up:1 right:5")
@@ -338,7 +338,7 @@ class UserActions:
         # actions.key("up:2 left:3")
     
     def code_state_else():
-        actions.insert("else {\n")
+        actions.insert(" else {\n")
         # actions.insert("else\n{\n}\n")
         # actions.key("up:2")
     # chrisnicollo EDIT END

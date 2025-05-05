@@ -7,7 +7,10 @@ title force: user.file_manager_refresh_title()
 manager show: user.file_manager_toggle_pickers()
 manager close: user.file_manager_hide_pickers()
 manager refresh: user.file_manager_update_lists()
-(go parent | daddy): user.file_manager_open_parent()
+# chrisnicollo EDIT START: Remove unused folder open parent command
+# (go parent | daddy): user.file_manager_open_parent()
+go parent: user.file_manager_open_parent()
+# chrisnicollo EDIT END
 ^follow {user.file_manager_directories}$:
     user.file_manager_open_directory(file_manager_directories)
 ^follow numb <number_small>$:
