@@ -58,7 +58,6 @@ import <user.code_libraries>:
 from import: user.insert_snippet_by_name("importFromStatement")
 
 # chrisnicollo EDIT START
-state import: user.code_import()
 op floor divide: " // "
 state async: "async "
 state async (def | deaf | deft): "async def "

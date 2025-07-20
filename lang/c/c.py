@@ -20,8 +20,8 @@ ctx.lists["self.stdint_signed"] = {
 }
 
 ctx.lists["self.c_signed"] = {
-    "signed": "signed ",
-    "unsigned": "unsigned ",
+    "signed": "signed",
+    "unsigned": "unsigned",
 }
 
 ctx.lists["self.c_keywords"] = {
@@ -161,12 +161,6 @@ def c_types(m) -> str:
     return m.c_types
 
 
-@mod.capture(rule="{self.c_types}")
-def c_types(m) -> str:
-    "Returns a string"
-    return m.c_types
-
-
 @mod.capture(rule="{self.stdint_types}")
 def stdint_types(m) -> str:
     "Returns a string"
@@ -252,63 +246,11 @@ class UserActions:
     def code_insert_is_not_null():
         actions.auto_insert(" != NULL")
 
-    # chrisnicollo EDIT START: Formatted to work in VSCode
-    def code_state_if():
-        actions.insert("if () {\n")
-        actions.user.engine_mimic("clear way left twice")
-        actions.key("left:3 ")
-        # actions.insert("if () {\n}\n")
-        # actions.key("up:2 left:3")
-
-    def code_state_else_if():
-        actions.insert(" else if () {\n")
-        actions.user.engine_mimic("clear way left twice")
-        actions.key("left:3 ")
-        #actions.key("up:1 right:5")
-        # actions.insert("else if () {\n}\n")
-        # actions.key("up:2 left:3")
-    
-    def code_state_else():
-        actions.insert(" else {\n")
-        # actions.insert("else\n{\n}\n")
-        # actions.key("up:2")
-    # chrisnicollo EDIT END
-
-    def code_state_switch():
-        actions.insert("switch ()")
-        actions.edit.left()
-
-    def code_state_case():
-        actions.insert("case \nbreak;")
-        actions.edit.up()
-
-    def code_state_for():
-        actions.auto_insert("for ")
-
-    def code_state_go_to():
-        actions.auto_insert("goto ")
-
-    def code_state_while():
-        actions.insert("while ()")
-        actions.edit.left()
-
-    def code_state_return():
-        actions.auto_insert("return ")
-
-    def code_break():
-        actions.auto_insert("break;")
-
-    def code_next():
-        actions.auto_insert("continue;")
-
     def code_insert_true():
         actions.auto_insert("true")
 
     def code_insert_false():
         actions.auto_insert("false")
-
-    def code_comment_line_prefix():
-        actions.auto_insert("// ") # chrisnicollo EDIT: Added a space to the end
 
     def code_insert_function(text: str, selection: str):
         if selection:
