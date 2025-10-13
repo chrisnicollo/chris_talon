@@ -16,14 +16,9 @@ tag(): user.code_operators_math
 tag(): user.code_operators_pointer
 
 settings():
-    # chrisnicollo EDIT START
-    # user.code_private_function_formatter = "SNAKE_CASE"
-    # user.code_protected_function_formatter = "SNAKE_CASE"
-    # user.code_public_function_formatter = "SNAKE_CASE"
-    user.code_private_function_formatter = "PUBLIC_CAMEL_CASE"
-    user.code_protected_function_formatter = "PUBLIC_CAMEL_CASE"
-    user.code_public_function_formatter = "PUBLIC_CAMEL_CASE"
-    # chrisnicollo EDIT END
+    user.code_private_function_formatter = "SNAKE_CASE"
+    user.code_protected_function_formatter = "SNAKE_CASE"
+    user.code_public_function_formatter = "SNAKE_CASE"
     user.code_private_variable_formatter = "SNAKE_CASE"
     user.code_protected_variable_formatter = "SNAKE_CASE"
     user.code_public_variable_formatter = "SNAKE_CASE"
@@ -73,51 +68,6 @@ push braces:
 <user.c_variable> <phrase>:
     insert("{c_variable} ")
     insert(user.formatted_text(phrase, "PRIVATE_CAMEL_CASE,NO_SPACES"))
-
-# chrisnicollo EDIT START
-<user.c_variable> <user.letter>: insert("{c_variable} {letter}")
-
-# Note that you can use phrase rather than user.text (but phrase doesn't allow you to use custom vocabulary)
-
-class <user.text>:
-    className = user.formatted_text(text, "PUBLIC_CAMEL_CASE,NO_SPACES")
-    insert("class {className}")
-    
-<user.c_variable> funky <user.text>:
-    functionName = user.formatted_text(text, "PUBLIC_CAMEL_CASE")
-    insert("{c_variable} {functionName}()")
-    edit.left()
-
-static <user.c_variable> funky <user.text>:
-    functionName = user.formatted_text(text, "PUBLIC_CAMEL_CASE")
-    insert("static {c_variable} {functionName}()")
-    edit.left()   
-
-<self.c_pointers>+ <user.text>:
-    insert("{c_pointers}")
-    insert(user.formatted_text(text, "PRIVATE_CAMEL_CASE,NO_SPACES"))
-
-# [state] new <user.c_variable> [<user.text>]: "new {c_variable} {user.formatted_text(text or '', 'camel')}"
-[state] new <user.c_variable>: "new {c_variable}"
-
-state new: "new "
-
-scope standard:    
-    insert("std::")
-
-# FIXME: consider making a list of common scopes 
-
-scope [{user.formatters}] <user.text>:
-    insert("{user.formatted_text(text, formatters or 'PUBLIC_CAMEL_CASE')}::")
-    
-constant: "const "
-see out: "cout"
-see in: "cin"
-op insertion: " << "
-op extraction: " >> "
-end line: "endl"
-sempush: ";\n"
-# chrisnicollo EDIT END
 
 # Ex. (int *)
 cast to <user.c_cast>: "{c_cast}"

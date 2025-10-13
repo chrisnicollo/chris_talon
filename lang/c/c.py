@@ -31,7 +31,6 @@ ctx.lists["self.c_keywords"] = {
 }
 
 ctx.lists["self.stdint_types"] = {
-    "bool": "bool", # chrisnicollo EDIT
     "character": "int8_t",
     "char": "int8_t",
     "short": "int16_t",
@@ -43,13 +42,11 @@ ctx.lists["self.stdint_types"] = {
     "double": "double",
     "struct": "struct",
     "struck": "struct",
-    "enum": "enum", # chrisnicollo EDIT
     "union": "union",
     "float": "float",
 }
 
 ctx.lists["self.c_types"] = {
-    "bool": "bool", # chrisnicollo EDIT
     "character": "char",
     "char": "char",
     "short": "short",
@@ -60,7 +57,6 @@ ctx.lists["self.c_types"] = {
     "double": "double",
     "struct": "struct",
     "struck": "struct",
-    "enum": "enum", # chrisnicollo EDIT
     "union": "union",
     "float": "float",
 }

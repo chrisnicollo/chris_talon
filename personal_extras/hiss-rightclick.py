@@ -1,3 +1,5 @@
+# api has changed, so this no longer works
+'''
 from talon import Module, actions, noise, cron, scope
 from talon_plugins import eye_mouse
 
@@ -60,7 +62,7 @@ def hiss_handler(active):
 
 # register the handler to the noise
 #noise.register("hiss", right_click)
-
+'''
 
 '''
 # Old version for just a single click
