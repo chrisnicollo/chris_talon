@@ -1,0 +1,28 @@
+list: user.code_common_function
+code.language: python
+-
+
+enumerate
+integer: "int"
+length: "len"
+list
+print
+range
+set
+split
+string: "str"
+update
+# chrisnicollo EDIT START: Add more common functions
+absolute: "abs"
+deck: "deque"
+dict
+filter
+float
+map
+max
+min
+ord
+sum
+tuple
+type
+# chrisnicollo EDIT END

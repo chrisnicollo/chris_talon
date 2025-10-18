@@ -19,7 +19,8 @@ code_languages = [
     # Language("assembly", "assembly", ["asm", "s"]),
     # Language("bash", "bash", ["sh", "bashbook"]),
     Language("batch", "batch", ["bat"]),
-    Language("c", "see", ["c", "h", "cpp", "hpp"]), # chrisnicollo EDIT: using c in talon for cpp
+    Language("c", "see", ["c", "h"]),
+    Language("snippet", "snippet", ["snippet"]),
     # Language("cmake", "see make", ["cmake"]),
     Language("csharp", "see sharp", ["cs"]),
     Language("css", "c s s", ["css"]),
